@@ -1,0 +1,22 @@
+{
+  "name": "daily-english-reader",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "daily": "node src/run.js",
+    "fetch": "node src/run.js --fetch-only",
+    "build": "node src/run.js --no-fetch",
+    "serve": "node src/serve.js",
+    "check-feeds": "node src/check-feeds.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@extractus/article-extractor": "^8.1.0",
+    "rss-parser": "^3.13.0",
+    "sanitize-html": "^2.13.1"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+dist/
+# Checked out from the `data` branch in CI; locally it holds your test issues.
+data/
+.DS_Store
+*.tmp

@@ -1,0 +1,106 @@
+name: Daily English Reader
+
+on:
+  schedule:
+    # Times are UTC. Each run skips the fetch when today's issue (Beijing date) already exists,
+    # so the later two only do work when an earlier one failed.
+    - cron: "23 19 * * *" # 03:23 Beijing
+    - cron: "41 22 * * *" # 06:41 Beijing
+    - cron: "13 1 * * *" # 09:13 Beijing
+  push:
+    branches: [main]
+    paths-ignore: ["**.md"]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-fetch today's issue even if it already exists"
+        type: boolean
+        default: false
+
+permissions:
+  actions: write # re-enable the schedule so GitHub never auto-disables it
+  contents: write # push the data branch
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-reader
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      deploy: ${{ steps.decide.outputs.deploy }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check out data branch
+        uses: actions/checkout@v5
+        with:
+          ref: data
+          path: data
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm test
+
+      - name: Fetch today's issue
+        id: fetch
+        timeout-minutes: 8
+        run: node src/run.js --fetch-only ${{ inputs.force && '--force' || '' }}
+
+      # The data branch is kept as a single commit, so it never piles up history.
+      - name: Save data branch
+        if: ${{ !cancelled() && steps.fetch.outputs.state_changed == 'true' }}
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -q --orphan snapshot
+          git add -A
+          git commit -q -m "Data snapshot $(TZ=Asia/Shanghai date '+%F %H:%M')"
+          git push -q --force origin snapshot:data
+
+      - name: Decide whether to deploy
+        id: decide
+        if: ${{ !cancelled() }}
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ steps.fetch.outputs.fetched }}" = "true" ]; then
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build site
+        if: ${{ !cancelled() && steps.decide.outputs.deploy == 'true' }}
+        run: node src/run.js --no-fetch
+
+      - uses: actions/upload-pages-artifact@v4
+        if: ${{ !cancelled() && steps.decide.outputs.deploy == 'true' }}
+        with:
+          path: dist
+
+      - name: Keep the schedule enabled
+        if: ${{ !cancelled() }}
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/daily.yml/enable" --silent
+
+  deploy:
+    needs: build
+    if: ${{ !cancelled() && needs.build.outputs.deploy == 'true' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#F7F8FA" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#191C22" media="(prefers-color-scheme: dark)">
+<meta name="robots" content="noindex, nofollow">
+<title>{{PAGE_TITLE}}</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%234B6B9A'/%3E%3Cpath d='M9 9h6.5a5 5 0 0 1 5 5v9H14a5 5 0 0 1-5-5z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="{{BASE}}assets/app.css?v={{V}}">
+</head>
+<body data-page="reader">
+<header class="topbar">
+  <a class="brand" href="{{BASE}}index.html">Daily Reader</a>
+  <a class="topbar-link" href="{{BASE}}archive.html">Archive</a>
+</header>
+
+<main class="container">
+  <div class="issue-head">
+    <p class="issue-date">{{DATE_LABEL}}</p>
+    <p class="issue-progress" id="progress"></p>
+  </div>
+  <div id="banner"></div>
+  {{NOTICES}}
+  <nav class="tabs" id="tabs" aria-label="Articles in this issue"></nav>
+
+  <article class="article" id="article" hidden>
+    <p class="meta">
+      <span class="category-tag" id="category"></span>
+      <span id="source"></span><span id="author"></span>
+    </p>
+    <h1 id="title"></h1>
+    <p class="stats" id="stats"></p>
+    <div class="article-body" id="body"></div>
+    <div class="end-sentinel" id="end" aria-hidden="true"></div>
+  </article>
+
+  <section class="actions" id="actions" hidden>
+    <div class="actions-row">
+      <button type="button" class="btn" id="read-btn" aria-pressed="false">Mark as read</button>
+      <button type="button" class="btn" id="skip-btn" aria-pressed="false">Skip</button>
+      <button type="button" class="btn btn-primary" id="next-btn">Next →</button>
+    </div>
+    <div class="actions-row actions-secondary">
+      <button type="button" class="link-btn" id="export-btn">Save as images</button>
+      <a id="original-link" href="#" target="_blank" rel="noopener noreferrer">Read original ↗</a>
+    </div>
+  </section>
+
+  <section class="empty" id="empty" hidden>
+    <p>No issue yet. The first one arrives after the next scheduled run.</p>
+  </section>
+
+  <noscript><p class="notices">This page needs JavaScript to show the articles.</p></noscript>
+</main>
+
+<dialog class="sheet" id="export-dialog" aria-labelledby="export-heading">
+  <div class="sheet-head">
+    <h2 id="export-heading">Save as images</h2>
+    <button type="button" class="icon-btn" id="export-close" aria-label="Close">✕</button>
+  </div>
+  <div class="sheet-options">
+    <div class="segmented" role="radiogroup" aria-label="Theme" id="export-theme">
+      <button type="button" data-value="light" aria-checked="true" role="radio">Light</button>
+      <button type="button" data-value="sepia" aria-checked="false" role="radio">Sepia</button>
+      <button type="button" data-value="dark" aria-checked="false" role="radio">Dark</button>
+    </div>
+    <div class="segmented" role="radiogroup" aria-label="Text size" id="export-size">
+      <button type="button" data-value="s" aria-checked="false" role="radio">A−</button>
+      <button type="button" data-value="m" aria-checked="true" role="radio">A</button>
+      <button type="button" data-value="l" aria-checked="false" role="radio">A+</button>
+    </div>
+  </div>
+  <p class="sheet-status" id="export-status" aria-live="polite"></p>
+  <div class="sheet-pages" id="export-pages"></div>
+  <div class="sheet-foot">
+    <button type="button" class="btn btn-primary btn-wide" id="export-save" disabled>Save all</button>
+  </div>
+</dialog>
+
+<script id="issue-data" type="application/json">{{ISSUE_JSON}}</script>
+<script type="module" src="{{BASE}}assets/app.js?v={{V}}"></script>
+</body>
+</html>

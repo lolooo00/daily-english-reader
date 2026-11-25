@@ -1,0 +1,29 @@
+{
+  "tech": [
+    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "Wired", "urls": ["https://www.wired.com/feed/category/science/latest/rss", "https://www.wired.com/feed/category/ideas/latest/rss", "https://www.wired.com/feed/category/backchannel/latest/rss"]},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+    {"name": "Rest of World", "url": "https://restofworld.org/feed/latest"},
+    {"name": "Hacker News Best", "url": "https://hnrss.org/best"}
+  ],
+  "law": [
+    {"name": "SCOTUSblog", "url": "https://www.scotusblog.com/feed/"},
+    {"name": "Harvard Law Review", "url": "https://harvardlawreview.org/feed/", "exclude": ["^appendix\\b", "\\bbook review\\b"]},
+    {"name": "The Volokh Conspiracy", "url": "https://reason.com/volokh/feed/", "exclude": ["^short circuit\\b", "\\bopen thread\\b", "^today in supreme court history\\b"]},
+    {"name": "Lawfare", "url": "https://www.lawfaremedia.org/feeds/articles"}
+  ],
+  "gaming": [
+    {"name": "PC Gamer", "url": "https://www.pcgamer.com/rss/"},
+    {"name": "Polygon", "url": "https://www.polygon.com/rss/index.xml"},
+    {"name": "Rock Paper Shotgun", "url": "https://www.rockpapershotgun.com/feed", "exclude": ["^the sunday papers\\b", "\\bwordle\\b", "\\bcodes\\b"]},
+    {"name": "Eurogamer", "url": "https://www.eurogamer.net/feed"}
+  ],
+  "fun": [
+    {"name": "The New Yorker", "url": "https://www.newyorker.com/feed/everything", "exclude": ["^briefly noted\b", "\bcrossword\b", "\bcartoon", "\bdaily cartoon\b", "\bin “the end”"]},
+    {"name": "The Conversation", "url": "https://theconversation.com/us/articles.atom"},
+    {"name": "JSTOR Daily", "url": "https://daily.jstor.org/feed/"},
+    {"name": "Psyche", "url": "https://psyche.co/feed"},
+    {"name": "Nautilus", "url": "https://nautil.us/feed/"}
+  ]
+}
