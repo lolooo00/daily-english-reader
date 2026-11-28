@@ -1,0 +1,2183 @@
+{
+  "version": 2,
+  "seen": [
+    {
+      "u": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research",
+      "t": "ilya sutskevers safe superintelligence partners with nvidia to scale its ai research",
+      "d": "2026-07-27"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/07/22/odd-january-6-trial-follow-on-copying-experts-report-from-another-case-to-file-it-in-your-case-may-infringe-copyright",
+      "t": "odd january 6 trial follow on copying experts report from another case to file it in your case may infringe copyright",
+      "d": "2026-07-27"
+    },
+    {
+      "u": "https://eurogamer.net/what-sense-to-make-from-id-software-layoffs-microsoft-xbox",
+      "t": "after weeks of layoffs briefings and counter briefings about one of xboxs star developers what sense can we make of the madness at doom dev id software",
+      "d": "2026-07-27"
+    },
+    {
+      "u": "https://longreads.com/2026/07/22/greece-rome-ancient-world",
+      "t": "beyond greece and rome",
+      "d": "2026-07-27"
+    },
+    {
+      "u": "https://newyorker.com/culture/photo-booth/the-white-house-press-corps-in-the-second-trump-era",
+      "t": "the white house press corps in the second trump era",
+      "d": "2026-07-28"
+    },
+    {
+      "u": "https://eurogamer.net/steam-wishlists-gifting-big-updates",
+      "t": "steams latest update finally brings order to the chaos of your wishlist and might even nudge people into buying you some new games",
+      "d": "2026-07-28"
+    },
+    {
+      "u": "https://wired.com/story/airdoctor-coupon-code",
+      "t": "top airdoctor coupon codes for july 2026",
+      "d": "2026-07-28"
+    },
+    {
+      "u": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "t": "hint a new ai startup co founded by martha stewart offers an ai assistant for homeowners",
+      "d": "2026-07-29"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/07/24/liberty-justice-center-files-first-lawsuit-challenging-trumps-massive-new-section-301-tariffs",
+      "t": "liberty justice center files first lawsuit challenging trumps massive new section 301 tariffs",
+      "d": "2026-07-29"
+    },
+    {
+      "u": "https://newyorker.com/culture/infinite-scroll/the-department-of-labored-content",
+      "t": "trumps cabinet has joined tiktok and its not great",
+      "d": "2026-07-29"
+    },
+    {
+      "u": "https://rockpapershotgun.com/toxic-yuri-story-kaschei-is-a-marvelous-free-visual-novel-that-turns-your-downloads-folder-into-a-little-labyrinth-of-mirrors",
+      "t": "toxic yuri story kaschei is a marvelous free visual novel that turns your downloads folder into a little labyrinth of mirrors",
+      "d": "2026-07-29"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/07/29/rebekah-jones-claimed-2020-florida-health-department-covid-19-whistle-blower-loses-lawsuit-over-firing",
+      "t": "rebekah jones claimed 2020 florida health department covid 19 whistle blower loses lawsuit over firing",
+      "d": "2026-07-30"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/10/furious-tv-review-hulu",
+      "t": "furious is a crime drama for a post epstein world",
+      "d": "2026-07-30"
+    },
+    {
+      "u": "https://pcgamer.com/hardware/steam-machines/steam-machine-reservation-queue-should-be-caught-up-by-the-end-of-2026-valve-says",
+      "t": "steam machine reservation queue should be caught up by the end of 2026 valve says",
+      "d": "2026-07-30"
+    },
+    {
+      "u": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession",
+      "t": "forward deployed engineers are the ai industrys latest talent obsession",
+      "d": "2026-07-30"
+    },
+    {
+      "u": "https://newyorker.com/culture/the-current-cinema/the-samurai-and-the-prisoner-fits-a-war-epic-into-an-elegant-puzzle-box",
+      "t": "the samurai and the prisoner fits a war epic into an elegant puzzle box",
+      "d": "2026-07-31"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/07/27/justices-kagan-and-barrett-on-the-scotus-leaks",
+      "t": "justices kagan and barrett on the scotus leaks",
+      "d": "2026-07-31"
+    },
+    {
+      "u": "https://rockpapershotgun.com/reported-lead-of-obsidians-new-fallout-game-wants-you-to-feel-a-sense-of-agony-when-playing-an-rpg-rather-than-being-an-all-powerful-god-splatterer",
+      "t": "reported lead of obsidians new fallout game wants you to feel a sense of agony when playing an rpg rather than being an all powerful god splatterer",
+      "d": "2026-07-31"
+    },
+    {
+      "u": "https://wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x",
+      "t": "chinese ai researchers are finding their voice on x",
+      "d": "2026-07-31"
+    },
+    {
+      "u": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "t": "x86 64 unknown linux musl binaries occasionally segfault during very large searches issue 3494 burntsushi ripgrep",
+      "d": "2026-08-01"
+    },
+    {
+      "u": "https://jurist.org/news/2026/07/international-rights-group-calls-for-the-immediate-release-of-vietnam-political-activist",
+      "t": "international rights group calls for the immediate release of vietnam political activist",
+      "d": "2026-08-01"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/10/teenage-sex-and-death-at-camp-miasma-movie-review",
+      "t": "in teenage sex and death at camp miasma desire and terror meet",
+      "d": "2026-08-01"
+    },
+    {
+      "u": "https://polygon.com/spider-man-trilogy-leaving-netflix-sam-raimi",
+      "t": "say goodbye to one of the most influential suphero trilogy of the century leaving netflix",
+      "d": "2026-08-01"
+    },
+    {
+      "u": "https://theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+      "t": "angela nissel faces down grief with a laugh",
+      "d": "2026-08-02"
+    },
+    {
+      "u": "https://eurogamer.net/xbox-game-advertising-insider-affordability",
+      "t": "xbox rolls out ad supported game streaming test for its insider programs as hardware supply and affordability crisis rages on",
+      "d": "2026-08-02"
+    },
+    {
+      "u": "https://newyorker.com/books/flash-fiction/one-and-no-one-gabriel-winslow-yost",
+      "t": "one and no one by gabriel winslow yost",
+      "d": "2026-08-02"
+    },
+    {
+      "u": "https://jurist.org/news/2026/08/european-commission-announces-ai-companies-to-face-tighter-eu-oversight-over-deepfakes-and-cyber-threats",
+      "t": "european commission tightens oversight on ai companies to combat deepfakes and cyber threats",
+      "d": "2026-08-02"
+    },
+    {
+      "u": "https://jurist.org/news/2026/08/amnesty-international-calls-global-extreme-heat-a-human-rights-emergency",
+      "t": "amnesty international calls global extreme heat a human rights emergency",
+      "d": "2026-08-03"
+    },
+    {
+      "u": "https://wafer.ai/blog/kimi-k3-mi355x",
+      "t": "is memory the moat wafer",
+      "d": "2026-08-03"
+    },
+    {
+      "u": "https://newyorker.com/books/this-week-in-fiction/rachel-yoder-08-10-26",
+      "t": "rachel yoder on a mennonite childhood and a story about the devil",
+      "d": "2026-08-03"
+    },
+    {
+      "u": "https://pcgamer.com/games/get-more-than-100-games-for-just-usd10-in-a-new-bundle-supporting-laid-off-game-devs",
+      "t": "get more than 100 games for just 10 in a new bundle supporting laid off game devs",
+      "d": "2026-08-03"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/10/extra-extra-read-all-about-it-again",
+      "t": "extra extra read all about it again",
+      "d": "2026-08-04"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/03/schools-owe-no-legal-duty-to-former-students-to-investigate-allegations-of-past-abuse",
+      "t": "schools owe no legal duty to former students to investigate allegations of past abuse",
+      "d": "2026-08-04"
+    },
+    {
+      "u": "https://cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+      "t": "u s has used virtually all of its long range precision missiles during iran war reuters",
+      "d": "2026-08-04"
+    },
+    {
+      "u": "https://eurogamer.net/gears-of-war-e-day-horde-siege-impressions",
+      "t": "gears of war e days new horde may be the games most interesting mode but it left me with more questions than answers",
+      "d": "2026-08-04"
+    },
+    {
+      "u": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google",
+      "t": "shopify says ai search is driving more traffic and sales not replacing google",
+      "d": "2026-08-05"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/03/journal-of-free-speech-law-jawboning-as-collaborative-governance-by-daniel-browning",
+      "t": "journal of free speech law jawboning as collaborative governance by daniel browning",
+      "d": "2026-08-05"
+    },
+    {
+      "u": "https://pcgamer.com/games/life-sim/fields-of-mistria-juniper-best-gifts-romance",
+      "t": "juniper romance walkthrough all the best gifts for the arrogant witch in fields of mistria",
+      "d": "2026-08-05"
+    },
+    {
+      "u": "https://newyorker.com/humor/shouts-murmurs/what-my-life-would-be-like-if-all-of-those-spam-texts-were-legit",
+      "t": "what my life would be like if all of those spam texts were legit",
+      "d": "2026-08-05"
+    },
+    {
+      "u": "https://newyorker.com/news/the-lede/max-millers-victim-mentality",
+      "t": "max millers victim mentality",
+      "d": "2026-08-06"
+    },
+    {
+      "u": "https://rockpapershotgun.com/the-sunday-papers-820",
+      "t": "the sunday papers",
+      "d": "2026-08-06"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/03/gordon-darby-renews-attempt-to-commandeer-new-hampshire-through-the-clean-air-act",
+      "t": "gordon darby renews attempt to commandeer new hampshire through the clean air act",
+      "d": "2026-08-06"
+    },
+    {
+      "u": "https://sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "t": "sec form d",
+      "d": "2026-08-06"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/10/robb-moss-is-still-going-with-the-flow",
+      "t": "robb moss is still going with the flow",
+      "d": "2026-08-07"
+    },
+    {
+      "u": "https://rockpapershotgun.com/repair-sick-robots-and-contemplate-the-role-of-healthcare-providers-in-the-deeply-textured-pixel-art-cyberpunk-visual-novel-all-our-broken-parts",
+      "t": "repair sick robots and contemplate the role of healthcare providers in the deeply textured pixel art cyberpunk visual novel all our broken parts",
+      "d": "2026-08-07"
+    },
+    {
+      "u": "https://wired.com/review/samsung-g8-g80hs",
+      "t": "the world isnt ready for 6k gaming monitors",
+      "d": "2026-08-07"
+    },
+    {
+      "u": "https://newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis",
+      "t": "ariana grande and the disappointment of diagnosis",
+      "d": "2026-08-08"
+    },
+    {
+      "u": "https://pcgamer.com/hardware/controllers/the-humble-wii-nunchuck-has-been-turned-into-a-video-editing-tool-because-its-one-of-the-most-ergonomic-things-ever-made",
+      "t": "the humble wii nunchuck has been turned into a video editing tool because its one of the most ergonomic things ever made",
+      "d": "2026-08-08"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/05/stop-talking-to-me-order-against-ex-landlord-who-kept-texting-ex-tenant-about-covid-vaccines",
+      "t": "stop talking to me order against ex landlord who kept texting ex tenant about covid vaccines",
+      "d": "2026-08-08"
+    },
+    {
+      "u": "https://wired.com/story/hp-coupon-code",
+      "t": "top hp coupon codes and deals august 2026",
+      "d": "2026-08-08"
+    },
+    {
+      "u": "https://wired.com/story/bh-photo-coupon",
+      "t": "b h photo promo codes and deals this august 2026",
+      "d": "2026-08-09"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/06/supreme-court-term-to-start-hot",
+      "t": "supreme court term to start hot",
+      "d": "2026-08-09"
+    },
+    {
+      "u": "https://pcgamer.com/games/fps/john-romero-says-id-software-once-sold-empty-doom-boxes-to-taiwanese-pirates-so-fans-there-could-have-legit-copies-for-us-it-was-distribution",
+      "t": "john romero says id software once sold empty doom boxes to taiwanese pirates so fans there could have legit copies for us it was distribution",
+      "d": "2026-08-09"
+    },
+    {
+      "u": "https://nautil.us/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-1283501",
+      "t": "taxi drivers rarely die of alzheimers how complex mental maps and spatial reasoning protect your brain",
+      "d": "2026-08-09"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/06/no-religious-exemption-from-forum-selection-clause-in-employment-agreement",
+      "t": "no religious exemption from forum selection clause in employment agreement",
+      "d": "2026-08-10"
+    },
+    {
+      "u": "https://wired.com/story/nike-promo-code",
+      "t": "top nike promo codes 30 off for august 2026",
+      "d": "2026-08-10"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/17/the-worlds-borough-gets-a-new-slogan",
+      "t": "the worlds borough gets a new slogan",
+      "d": "2026-08-10"
+    },
+    {
+      "u": "https://eurogamer.net/marvel-tokon-fighting-souls-pc-problems-stuttering-lag",
+      "t": "marvel tokon fighting souls suffers from widespread pc issues at launch with reports of stuttering and netcode problems running amok",
+      "d": "2026-08-10"
+    },
+    {
+      "u": "https://wired.com/story/the-rise-of-the-1-am-job-interview",
+      "t": "the rise of the 1 am job interview",
+      "d": "2026-08-11"
+    },
+    {
+      "u": "https://newyorker.com/news/the-financial-page/what-does-the-humbling-of-leopold-aschenbrenner-mean-for-the-ai-bubble",
+      "t": "what does the humbling of leopold aschenbrenner mean for the a i bubble",
+      "d": "2026-08-11"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/11/how-many-more-jason-ardays-are-there",
+      "t": "how many more jason ardays are there",
+      "d": "2026-08-11"
+    },
+    {
+      "u": "https://pcgamer.com/hardware/gaming-mice/mmo-heads-rejoice-razer-is-bringing-out-the-naga-v3-pro-with-upgraded-switches-loads-of-customizability-and-a-ridiculous-dpi",
+      "t": "mmo heads rejoice razer is bringing out the naga v3 pro with upgraded switches loads of customizability and a ridiculous dpi",
+      "d": "2026-08-11"
+    },
+    {
+      "u": "https://wired.com/story/breville-promo-code",
+      "t": "top breville promo codes 700 off this august 2026",
+      "d": "2026-08-12"
+    },
+    {
+      "u": "https://newyorker.com/books/this-week-in-fiction/emma-cline-08-17-26",
+      "t": "emma cline on rendering the human experience",
+      "d": "2026-08-12"
+    },
+    {
+      "u": "https://eurogamer.net/club-soko-impressions-cartoonishly-dark-sokoban-puzzle-game",
+      "t": "club soko is cartoonishly dark puzzle game thats both splattered with beer and ive realised a totally wonderful twist on the genre",
+      "d": "2026-08-12"
+    },
+    {
+      "u": "https://pcgamer.com/games/action/a-long-lost-lord-of-the-rings-action-rpg-makes-a-surprise-return-to-steam",
+      "t": "a long lost lord of the rings action rpg makes a surprise return to steam",
+      "d": "2026-08-13"
+    },
+    {
+      "u": "https://nautil.us/the-quest-to-understand-the-forgotten-psychedelic-1283763",
+      "t": "the quest to understand the forgotten psychedelic",
+      "d": "2026-08-13"
+    },
+    {
+      "u": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works",
+      "t": "flock says its new tool will help identify police abuse but hasnt explained how it works",
+      "d": "2026-08-13"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/11/klein-and-thompsons-abudance-shows-abundant-lack-of-introspection",
+      "t": "klein and thompsons abundance shows abundant lack of introspection",
+      "d": "2026-08-13"
+    },
+    {
+      "u": "https://jurist.org/news/2026/08/india-dispatch-supreme-court-clarifies-student-protest-order-exposing-ad-hoc-policing-of-dissent",
+      "t": "india dispatch supreme court clarifies student protest order exposing flawed policing of dissent",
+      "d": "2026-08-14"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/17/the-many-masks-of-dan-hoyle",
+      "t": "the many masks of dan hoyle",
+      "d": "2026-08-14"
+    },
+    {
+      "u": "https://pcgamer.com/games/third-person-shooter/arc-raiders-next-major-update-will-present-players-with-a-new-high-level-challenge-with-a-frozen-map-and-arcs-which-will-challenge-the-ways-youve-learned-to-move",
+      "t": "arc raiders next major update will present players with a new high level challenge with a frozen map and arcs which will challenge the ways youve learned to move",
+      "d": "2026-08-14"
+    },
+    {
+      "u": "https://wired.com/story/acer-promo-code",
+      "t": "acer promo codes 40 off",
+      "d": "2026-08-14"
+    },
+    {
+      "u": "https://eurogamer.net/fire-emblem-fortunes-weave-preview",
+      "t": "20 hours in i cannot believe the scale complexity and ambition of fire emblem fortunes weave especially given its paltry switch 2 file size",
+      "d": "2026-08-15"
+    },
+    {
+      "u": "https://newyorker.com/humor/shouts-murmurs/help-im-a-narrator-stuck-in-the-calm-dot-com-meditation-app",
+      "t": "help im a narrator stuck in the calm com meditation app",
+      "d": "2026-08-15"
+    },
+    {
+      "u": "https://bbc.com/news/articles/ce97mm3vvemo",
+      "t": "count binface receives over a quarter of votes in clacton by election",
+      "d": "2026-08-15"
+    },
+    {
+      "u": "https://wired.com/story/unitree-influencer-4-foot-robot-from-china",
+      "t": "the next big influencer is this 4 foot tall robot from china",
+      "d": "2026-08-16"
+    },
+    {
+      "u": "https://pcgamer.com/hardware/graphics-cards/weve-been-tracking-graphics-card-prices-for-exactly-one-year-and-its-never-been-worse-than-this",
+      "t": "weve been tracking graphics card prices for exactly one year and its never been worse than this",
+      "d": "2026-08-16"
+    },
+    {
+      "u": "https://newyorker.com/culture/pop-music/phoebe-bridgers-comes-back-to-earth",
+      "t": "phoebe bridgers comes back to earth",
+      "d": "2026-08-16"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land",
+      "t": "israeli settler terrorists unjustly expel west bank palestinians from their land",
+      "d": "2026-08-16"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/24/move-over-aaron-judge-the-real-yankees-mvp-is-george-costanza",
+      "t": "move over aaron judge the real yankees m v p is george costanza",
+      "d": "2026-08-17"
+    },
+    {
+      "u": "https://eurogamer.net/marvel-tokon-pc-problems-strange-fixes",
+      "t": "as developer arc system works promises a fix marvel to kons suffering pc players are creating some bizarre home remedies for its dire performance woes",
+      "d": "2026-08-17"
+    },
+    {
+      "u": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year",
+      "t": "universal health coverage could save 1 trillion and 114 000 lives every year yale study projects",
+      "d": "2026-08-17"
+    },
+    {
+      "u": "https://eurogamer.net/the-king-is-watching-impressions",
+      "t": "i find new concepts in every run of the king is watching a mix of city builder and tower defence game that revels in magic menace and distraction",
+      "d": "2026-08-18"
+    },
+    {
+      "u": "https://scotusblog.com/2026/08/once-upon-a-time-storytelling-in-learning-resources-v-trump",
+      "t": "once upon a time storytelling in learning resources v trump",
+      "d": "2026-08-18"
+    },
+    {
+      "u": "https://fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "t": "the fairphone gen 6 is all about giving you more",
+      "d": "2026-08-18"
+    },
+    {
+      "u": "https://newyorker.com/culture/critics-notebook/the-wealth-and-glam-of-the-hamptons-looks-almost-quaint",
+      "t": "the wealth and glam of the hamptons looks almost quaint",
+      "d": "2026-08-18"
+    },
+    {
+      "u": "https://wired.com/review/google-pixel-watch-5",
+      "t": "googles pixel watch 5 pumps up its fitness smarts",
+      "d": "2026-08-19"
+    },
+    {
+      "u": "https://rockpapershotgun.com/gta-6-footage-once-again-appears-to-leak-online-this-time-because-of-a-group-that-wants-games-like-the-crew-to-have-offline-modes-and-the-end-of-digital-preorders",
+      "t": "gta 6 footage once again appears to leak online this time because of a group that wants games like the crew to have offline modes and the end of digital preorders",
+      "d": "2026-08-19"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/24/new-yorks-hottest-club-is-the-jacob-riis-bathhouse",
+      "t": "new yorks hottest club is the jacob riis bathhouse",
+      "d": "2026-08-19"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/18/voter-ignorance-and-confusion-caused-by-candidates-with-similar-names",
+      "t": "voter ignorance and the problem of confusion caused by candidates with similar names updated",
+      "d": "2026-08-19"
+    },
+    {
+      "u": "https://scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche",
+      "t": "understanding the courts next major case on asylum seekers wassily v blanche",
+      "d": "2026-08-20"
+    },
+    {
+      "u": "https://pcgamer.com/gaming-industry/industry-legend-warren-spector-is-retiring-im-feeling-like-ive-done-what-i-set-out-to-do",
+      "t": "industry legend warren spector is retiring im feeling like ive done what i set out to do",
+      "d": "2026-08-20"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/24/where-theres-smoke-theres-fire-towers",
+      "t": "where theres smoke theres fire towers",
+      "d": "2026-08-20"
+    },
+    {
+      "u": "https://longreads.com/2026/08/14/romance-dating-decline",
+      "t": "the great romance slump",
+      "d": "2026-08-21"
+    },
+    {
+      "u": "https://annas-archive.gl/blog/physical-destruction.html",
+      "t": "ai companies destroy physical books lets scan rare books before its too late",
+      "d": "2026-08-21"
+    },
+    {
+      "u": "https://scotusblog.com/2026/08/florida-republicans-bring-census-bureau-challenge-to-the-supreme-court",
+      "t": "florida republicans bring census bureau challenge to the supreme court",
+      "d": "2026-08-21"
+    },
+    {
+      "u": "https://rockpapershotgun.com/fallout-4-and-skyrim-updates-are-imminent-just-as-ive-modded-up-the-latter-for-the-first-time-in-ages",
+      "t": "im not saying bethesda are trolling me specifically but fallout 4 and skyrim updates are imminent just as ive modded up the latter for the first time in ages",
+      "d": "2026-08-21"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/08/24/the-yahoo-boys-unsayable-sunrise-skin-contact",
+      "t": "briefly noted book reviews",
+      "d": "2026-08-22"
+    },
+    {
+      "u": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+      "t": "nvidia just showed that the harness not the ai model is now the real hero",
+      "d": "2026-08-22"
+    },
+    {
+      "u": "https://pcgamer.com/games/grand-theft-auto/us-army-confirms-its-offering-4-days-to-play-gta-6-to-soldiers-who-reenlist-for-at-least-2-years",
+      "t": "us army confirms its offering 4 days to play gta 6 to soldiers who reenlist for at least 2 years",
+      "d": "2026-08-22"
+    },
+    {
+      "u": "https://rockpapershotgun.com/latest-alleged-gta-6-leak-risks-tarnishing-the-reputation-of-our-communities-say-stop-killing-games-after-hackers-claim-pro-consumer-motivations",
+      "t": "latest alleged gta 6 leak risks tarnishing the reputation of our communities say stop killing games after hackers claim pro consumer motivations",
+      "d": "2026-08-23"
+    },
+    {
+      "u": "https://wired.com/story/metas-big-reckoning-is-here",
+      "t": "metas big reckoning is here",
+      "d": "2026-08-23"
+    },
+    {
+      "u": "https://nautil.us/are-you-in-danger-of-becoming-a-robot-1284114",
+      "t": "are you in danger of becoming a robot",
+      "d": "2026-08-23"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/23/trump-imposes-harmful-and-illegal-section-338-tariffs-against-many-canadian-imports",
+      "t": "trump imposes harmful and illegal section 338 tariffs against many canadian imports",
+      "d": "2026-08-23"
+    },
+    {
+      "u": "https://scotusblog.com/2026/08/the-courts-clearly-established-problem",
+      "t": "the courts clearly established problem",
+      "d": "2026-08-24"
+    },
+    {
+      "u": "https://eurogamer.net/the-sinking-city-2-now-playing",
+      "t": "the sinking city 2 ditches the thinky stuff for resident evil style horror but im yet to decide if this expert mystery developers latest is truly better for it",
+      "d": "2026-08-24"
+    },
+    {
+      "u": "https://newyorker.com/culture/the-food-scene/consider-the-oyster-bar",
+      "t": "consider the oyster bar",
+      "d": "2026-08-24"
+    },
+    {
+      "u": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny",
+      "t": "brake problems in gm evs draw greater federal scrutiny",
+      "d": "2026-08-24"
+    },
+    {
+      "u": "https://wired.com/review/saily-ultra-esim",
+      "t": "the saily ultra esim is a great perk packed choice for globetrotters",
+      "d": "2026-08-25"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/21/intern-actually-a-project-veritas-undercover-plant-in-political-organization-didnt-have-fiduciary-duty-to-organization",
+      "t": "intern actually a project veritas undercover plant in political organization didnt have fiduciary duty to organization",
+      "d": "2026-08-25"
+    },
+    {
+      "u": "https://rockpapershotgun.com/i-love-the-dark-soulful-architecture-of-the-canon-of-balls-a-rolling-open-world-game-inspired-by-sega-fumito-ueda-and-minecraft-parkour",
+      "t": "i love the dark soulful architecture of the canon of balls a rolling open world game inspired by sega fumito ueda and minecraft parkour",
+      "d": "2026-08-25"
+    },
+    {
+      "u": "https://newyorker.com/culture/critics-notebook/what-natalie-harp-carries",
+      "t": "what natalie harp carries",
+      "d": "2026-08-25"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/25/justice-department-opines-that-federal-law-allows-carrying-guns-in-post-offices-for-self-defense",
+      "t": "justice department opines that federal law allows carrying guns in post offices for self defense",
+      "d": "2026-08-26"
+    },
+    {
+      "u": "https://newyorker.com/books/flash-fiction/every-weekday-at-445-pm-libby-flores",
+      "t": "every weekday at 4 45 p m by libby flores",
+      "d": "2026-08-26"
+    },
+    {
+      "u": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack",
+      "t": "terabytes of credentials leaked in massive supply chain attack",
+      "d": "2026-08-26"
+    },
+    {
+      "u": "https://pcgamer.com/games/rpg/solasta-2-is-getting-multiplayer-and-warlocks-in-its-next-update",
+      "t": "solasta 2 is getting multiplayer and warlocks in its next update",
+      "d": "2026-08-26"
+    },
+    {
+      "u": "https://nautil.us/dolly-parton-science-icon-1284482",
+      "t": "dolly parton science icon nautilus",
+      "d": "2026-08-27"
+    },
+    {
+      "u": "https://theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "t": "tim curry star of the rocky horror picture show and stephen kings it dies aged 80",
+      "d": "2026-08-27"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/26/high-schools-ordering-parents-to-remove-pink-xx-protest-wristbands-at-girls-soccer-game-likely-violated-first-amendment",
+      "t": "high schools ordering parents to remove pink xx protest wristbands at girls soccer game likely violated first amendment",
+      "d": "2026-08-27"
+    },
+    {
+      "u": "https://rockpapershotgun.com/do-a-literal-monster-mash-in-dance-of-theseus-a-strangely-undisgusting-blend-of-plastic-surgery-and-balatro-style-fashion-battles",
+      "t": "do a literal monster mash in dance of theseus a strangely undisgusting blend of plastic surgery and balatro style fashion battles",
+      "d": "2026-08-27"
+    },
+    {
+      "u": "https://harvardlawreview.org/print/vol-139/remedies-for-a-constitutional-crisis",
+      "t": "remedies for a constitutional crisis harvard law review",
+      "d": "2026-08-28"
+    },
+    {
+      "u": "https://nautil.us/how-much-of-a-problem-is-ais-water-use-1284519",
+      "t": "how much of a problem is ais water use nautilus",
+      "d": "2026-08-28"
+    },
+    {
+      "u": "https://rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games",
+      "t": "stalker 2 gets serious performance and visual upgrades with its 2 0 update testing confirms polishing up one of the biggest flawed gems in fps games",
+      "d": "2026-08-28"
+    },
+    {
+      "u": "https://theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "t": "jensen huang says nvidia achieved agi again not that it matters",
+      "d": "2026-08-28"
+    },
+    {
+      "u": "https://eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
+      "t": "modern warfare 4 betas first update is live adding a new map mode and toned down footsteps",
+      "d": "2026-08-29"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/26/a-wall-of-separation-between-lgb-and-t",
+      "t": "a wall of separation between lgb and t",
+      "d": "2026-08-29"
+    },
+    {
+      "u": "https://newyorker.com/books/what-were-reading/the-books-behind-peter-hellers-the-dog-stars",
+      "t": "the books behind peter hellers the dog stars",
+      "d": "2026-08-29"
+    },
+    {
+      "u": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "t": "htmx 4 0 0 has been released",
+      "d": "2026-08-29"
+    },
+    {
+      "u": "https://longreads.com/2026/08/28/conservation-africa-wild-dogs-genetics",
+      "t": "africas wild dogs are the most hated carnivores on the continent heres why some conservationists are saving them anyway",
+      "d": "2026-08-30"
+    },
+    {
+      "u": "https://rockpapershotgun.com/solve-a-mountain-mystery-via-the-medium-of-creepy-cards-in-hillthorn-which-has-an-excellent-demo",
+      "t": "solve a mountain mystery via the medium of creepy cards in hillthorn which has an excellent demo",
+      "d": "2026-08-30"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/08/25/5-years-of-the-journal-of-free-speech-law-150-published-articles",
+      "t": "5 years of the journal of free speech law 150 published articles",
+      "d": "2026-08-30"
+    },
+    {
+      "u": "https://wired.com/story/hotels-com-coupon",
+      "t": "top hotels com coupon codes for september 2026",
+      "d": "2026-08-30"
+    },
+    {
+      "u": "https://scotusblog.com/2026/08/supreme-court-allows-construction-on-white-house-ballroom-to-continue",
+      "t": "supreme court allows construction on white house ballroom to continue",
+      "d": "2026-08-31"
+    },
+    {
+      "u": "https://eurogamer.net/call-of-duty-modern-warfare-4-beta-second-weekend-major-patch-steam-numbers",
+      "t": "call of duty modern warfare 4 beta steam numbers havent budged in the second weekend despite warzones arrival and transformative patch",
+      "d": "2026-08-31"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/07/where-to-get-fire-outfits-for-burning-man",
+      "t": "where to get fire outfits for burning man",
+      "d": "2026-08-31"
+    },
+    {
+      "u": "https://theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "t": "turns out brits would quite like their private messages to stay private",
+      "d": "2026-08-31"
+    },
+    {
+      "u": "https://scotusblog.com/2026/08/what-the-public-thinks-of-the-supreme-court",
+      "t": "what the public thinks of the supreme court",
+      "d": "2026-09-01"
+    },
+    {
+      "u": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history",
+      "t": "a 12tb steam teraleak spills more than a decade of lost pc gaming history",
+      "d": "2026-09-01"
+    },
+    {
+      "u": "https://nautil.us/how-a-psychic-horse-named-clever-hans-changed-the-way-we-do-science-1284622",
+      "t": "how a psychic horse named clever hans changed the way we do science nautilus",
+      "d": "2026-09-01"
+    },
+    {
+      "u": "https://pcgamer.com/games/rpg/fables-story-will-be-15-20-hours-long-according-to-its-game-director-although-the-games-life-systems-are-limitless",
+      "t": "fables story will be 15 20 hours long according to its game director although the games life systems are limitless",
+      "d": "2026-09-01"
+    },
+    {
+      "u": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
+      "t": "google spared from ad business breakup but judge orders changes to how it operates",
+      "d": "2026-09-02"
+    },
+    {
+      "u": "https://scotusblog.com/2026/08/trump-administration-asks-justices-to-consider-key-border-policy",
+      "t": "trump administration asks justices to consider key border policy",
+      "d": "2026-09-02"
+    },
+    {
+      "u": "https://rockpapershotgun.com/active-development-on-league-of-legends-fighting-game-spinoff-2xko-will-be-coming-to-an-end-at-the-end-of-the-year",
+      "t": "active development on league of legends fighting game spinoff 2xko will be coming to an end at the end of the year",
+      "d": "2026-09-02"
+    },
+    {
+      "u": "https://nautil.us/why-do-male-chimpanzees-throw-rocks-at-the-same-trees-for-more-than-a-decade-1284704",
+      "t": "why do male chimpanzees throw rocks at the same trees for more than a decade nautilus",
+      "d": "2026-09-02"
+    },
+    {
+      "u": "https://theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+      "t": "i held the first truly bezel free phone",
+      "d": "2026-09-03"
+    },
+    {
+      "u": "https://rockpapershotgun.com/in-dungeon-settlers-you-build-a-colony-on-top-of-a-teeming-rpg-labyrinth-in-a-trim-take-on-rimworld",
+      "t": "in dungeon settlers you build a colony on top of a teeming rpg labyrinth in a trim take on rimworld",
+      "d": "2026-09-03"
+    },
+    {
+      "u": "https://newyorker.com/books/what-were-reading/five-great-campus-novels",
+      "t": "five great campus novels",
+      "d": "2026-09-03"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/02/third-circuit-rejects-facial-challenge-to-ban-on-nonimmigrant-aliens-gun-possession",
+      "t": "third circuit rejects facial challenge to ban on nonimmigrant aliens gun possession",
+      "d": "2026-09-03"
+    },
+    {
+      "u": "https://longreads.com/2026/08/31/rachel-entrekin-ultramarathon-competition-women",
+      "t": "rachel entrekin is ready to take whats hers",
+      "d": "2026-09-04"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/03/my-new-usa-today-article-on-dangerous-similarities-between-democratic-socialists-and-maga-nationalists",
+      "t": "my new usa today article on dangerous similarities between democratic socialists and maga nationalists",
+      "d": "2026-09-04"
+    },
+    {
+      "u": "https://wired.com/story/dermstore-promo-code",
+      "t": "dermstore coupons 25 off for 2026",
+      "d": "2026-09-04"
+    },
+    {
+      "u": "https://eurogamer.net/monster-hunter-wilds-ascendance-boost-weapons",
+      "t": "capcom quietly releases new trailers for monster hunter wilds ascendance dlc teasing some pretty big changes to how all 14 weapon types are going to work",
+      "d": "2026-09-04"
+    },
+    {
+      "u": "https://abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "t": "why the netherlands pulled 86 tonnes of gold from us central bank",
+      "d": "2026-09-05"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/03/puerto-rico-has-rational-basis-for-allowing-only-two-genders-for-birth-certificate-gender-changes",
+      "t": "puerto rico has rational basis for allowing only two genders for birth certificate gender changes",
+      "d": "2026-09-05"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/14/the-anti-ai-ad-ad-campaign",
+      "t": "the anti a i ad ad campaign",
+      "d": "2026-09-05"
+    },
+    {
+      "u": "https://pcgamer.com/games/action/onimusha-leather-tempered-iron-materials-grind-red-souls",
+      "t": "sick of grinding for upgrade materials like leather and iron in onimusha way of the sword good news you can buy a lot of them",
+      "d": "2026-09-05"
+    },
+    {
+      "u": "https://harvardlawreview.org/print/vol-139/montesquieus-day-in-court-appendix",
+      "t": "appendix to montesquieus day in court recovering a classical understanding of separated powers harvard law review",
+      "d": "2026-09-06"
+    },
+    {
+      "u": "https://wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything",
+      "t": "create custom windows 11 notifications to remind yourself of anything",
+      "d": "2026-09-06"
+    },
+    {
+      "u": "https://newyorker.com/culture/infinite-scroll/the-unique-horrors-of-ai-food-slop",
+      "t": "the unique horrors of a i food slop",
+      "d": "2026-09-06"
+    },
+    {
+      "u": "https://rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users",
+      "t": "we ended up kind of cornered there mortal shell 2 devs say they didnt intend to lock everybody out by disabling achievements for slayer seal easy mode users",
+      "d": "2026-09-06"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/14/tom-sachs-channels-chanel",
+      "t": "tom sachs channels chanel",
+      "d": "2026-09-07"
+    },
+    {
+      "u": "https://pcgamer.com/gaming-industry/steam-week-in-review-54-idle-games-released-on-steam-last-week-and-many-look-eerily-similar",
+      "t": "steam week in review 54 idle games released on steam last week and many look eerily similar",
+      "d": "2026-09-07"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/01/school-can-control-what-flags-schoolteachers-hang-on-classroom-walls",
+      "t": "school can control what flags schoolteachers hang on classroom walls",
+      "d": "2026-09-07"
+    },
+    {
+      "u": "https://wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on",
+      "t": "every samsung galaxy phone comes with this unique add on",
+      "d": "2026-09-07"
+    },
+    {
+      "u": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart",
+      "t": "booksellers suspect ai firms are buying and then destroying rare books",
+      "d": "2026-09-08"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/02/an-unopposed-grant-of-sealing-carries-little-weight-in-a-contested-posture",
+      "t": "a n unopposed grant of sealing carries little weight in a contested posture",
+      "d": "2026-09-08"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/14/the-breakup-all-them-dogs-sex-dissent-we-want-to-believe",
+      "t": "briefly noted book reviews",
+      "d": "2026-09-08"
+    },
+    {
+      "u": "https://eurogamer.net/civilization-7-paid-expansion-earthrise-atomic-age-free-update",
+      "t": "two years after its rocky launch civilization 7s first paid expansion earthrise is on its way but first comes the atomic age",
+      "d": "2026-09-08"
+    },
+    {
+      "u": "https://rockpapershotgun.com/blood-of-dawnwalkers-troubled-power-fantasy-has-me-yearning-for-a-more-desperate-systemic-vampire-survival-sim",
+      "t": "blood of dawnwalkers troubled power fantasy has me yearning for a more desperate systemic vampire survival sim in which every night is a gamble",
+      "d": "2026-09-09"
+    },
+    {
+      "u": "https://scotusblog.com/2026/09/states-civic-groups-urge-supreme-court-to-leave-order-in-place-prohibiting-trump-administration-",
+      "t": "states civic groups urge supreme court to leave order in place prohibiting trump administration from implementing parts of mail in ballot rule",
+      "d": "2026-09-09"
+    },
+    {
+      "u": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago",
+      "t": "apples new ceo is reviving a steve jobs strategy from 25 years ago",
+      "d": "2026-09-09"
+    },
+    {
+      "u": "https://newyorker.com/humor/shouts-murmurs/some-legacy-sequels-we-hope-are-never-made",
+      "t": "some legacy sequels we hope are never made",
+      "d": "2026-09-10"
+    },
+    {
+      "u": "https://rockpapershotgun.com/miami-dade-police-outraged-by-proposals-to-turn-parts-of-miami-into-gta-6-saying-that-rockstars-game-embodies-what-they-work-every-single-day-to-prevent",
+      "t": "miami dade police outraged by proposals to turn parts of miami into gta 6 saying that rockstars game embodies what they work every single day to prevent",
+      "d": "2026-09-10"
+    },
+    {
+      "u": "https://wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck",
+      "t": "a stealth startup thinks it just hacked the memory shortage",
+      "d": "2026-09-10"
+    },
+    {
+      "u": "https://harvardlawreview.org/print/vol-139/some-realism-about-constitutional-remedies",
+      "t": "some realism about constitutional remedies harvard law review",
+      "d": "2026-09-10"
+    },
+    {
+      "u": "https://nautil.us/what-bird-feeding-has-to-do-with-happiness-1284926",
+      "t": "what bird feeding has to do with happiness nautilus",
+      "d": "2026-09-11"
+    },
+    {
+      "u": "https://polygon.com/new-tv-shows-streaming-this-weekend-netflix-september-11-13",
+      "t": "8 new tv shows to watch this weekend on netflix hbo max and apple tv september 11 13",
+      "d": "2026-09-11"
+    },
+    {
+      "u": "https://wired.com/story/ulta-coupon",
+      "t": "top ulta beauty promo codes 50 off",
+      "d": "2026-09-11"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/11/reflections-on-the-25th-anniversary-of-9-11",
+      "t": "reflections on the 25th anniversary of 9 11",
+      "d": "2026-09-11"
+    },
+    {
+      "u": "https://eurogamer.net/what-weve-been-playing-well-this-is-embarrassing-were-wearing-the-same-outfit",
+      "t": "what weve been playing well this is embarrassing were wearing the same outfit",
+      "d": "2026-09-12"
+    },
+    {
+      "u": "https://newyorker.com/news/the-lede/the-warning-benjamin-netanyahu-ignored",
+      "t": "the warning benjamin netanyahu ignored",
+      "d": "2026-09-12"
+    },
+    {
+      "u": "https://jurist.org/news/2026/09/recruitment-of-foreign-nationals-in-russia-ukraine-war-amounts-to-human-trafficking-amnesty-international-says",
+      "t": "recruitment of foreign nationals in russia ukraine war amounts to human trafficking amnesty international says",
+      "d": "2026-09-12"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/09/second-amendment-roundup-atfs-firearm-and-frame-or-receiver-rules-invalid",
+      "t": "second amendment roundup atfs firearm and frame or receiver rules invalid",
+      "d": "2026-09-13"
+    },
+    {
+      "u": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "t": "y combinators garry tan wants us open weight ai labs to distill frontier models too",
+      "d": "2026-09-13"
+    },
+    {
+      "u": "https://nautil.us/nighttime-light-may-change-the-shape-of-your-heart-1284967",
+      "t": "nighttime light may change the shape of your heart nautilus",
+      "d": "2026-09-13"
+    },
+    {
+      "u": "https://pcgamer.com/gaming-industry/fallout-dev-tim-cain-says-the-games-industrys-volatility-is-always-gonna-be-around-whats-happening-now-isnt-novel-it-isnt-new",
+      "t": "fallout dev tim cain says the games industrys volatility is always gonna be around whats happening now isnt novel it isnt new",
+      "d": "2026-09-13"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/21/dey-etna-are-they-dead-yet-unbelonging",
+      "t": "briefly noted book reviews",
+      "d": "2026-09-14"
+    },
+    {
+      "u": "https://pcgamer.com/games/rpg/upcoming-vampire-rpg-nighthawks-has-been-removed-from-steam-search-and-delisted-in-certain-countries-as-valve-classifies-it-adults-only-its-very-bad-news-for-us",
+      "t": "upcoming vampire rpg nighthawks has been removed from steam search and delisted in certain countries as valve classifies it adults only its very bad news for us",
+      "d": "2026-09-14"
+    },
+    {
+      "u": "https://jurist.org/news/2026/09/un-secretary-general-calls-on-world-leaders-to-invest-in-peace-as-global-conflicts-reach-post-wwii-high",
+      "t": "un secretary general calls on world leaders to invest in peace as global conflicts reach post wwii high",
+      "d": "2026-09-14"
+    },
+    {
+      "u": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs",
+      "t": "the 9 buzziest startups from y combinators latest demo day according to vcs",
+      "d": "2026-09-14"
+    },
+    {
+      "u": "https://nautil.us/why-elon-musks-self-growing-moon-cities-are-tragically-flawed-1285049",
+      "t": "why elon musks self growing moon cities are tragically flawed nautilus",
+      "d": "2026-09-15"
+    },
+    {
+      "u": "https://bbc.com/news/articles/ck790xg41ygro",
+      "t": "us confirms for first time it has deployed space weapons",
+      "d": "2026-09-15"
+    },
+    {
+      "u": "https://eurogamer.net/valve-steam-frame-vr-demand-expand-market",
+      "t": "its absolutely our goal to expand the market valves new steam frame vr headset has a nifty idea for broader appeal",
+      "d": "2026-09-15"
+    },
+    {
+      "u": "https://jurist.org/news/2026/09/presence-of-forever-chemicals-in-the-environment-threatens-human-rights-un-expert-says",
+      "t": "presence of forever chemicals in the environment threatens human rights un expert says",
+      "d": "2026-09-15"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/16/defamation-via-songs-and-ai-generated-video-u-tenn-coachs-claim-can-go-forward",
+      "t": "defamation via songs and ai generated video u tenn coachs claim can go forward",
+      "d": "2026-09-16"
+    },
+    {
+      "u": "https://theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "t": "google will now let any ai agent run your smart home",
+      "d": "2026-09-16"
+    },
+    {
+      "u": "https://eurogamer.net/untangling-my-response-to-how-ocarina-of-time-remake-looks",
+      "t": "im trying to untangle my response to how the ocarina of time remake looks",
+      "d": "2026-09-16"
+    },
+    {
+      "u": "https://nautil.us/what-grok-and-claude-have-to-say-about-the-ai-apocalypse-1285077",
+      "t": "what grok and claude have to say about the ai apocalypse nautilus",
+      "d": "2026-09-16"
+    },
+    {
+      "u": "https://longreads.com/2026/09/03/longreads-questionnaire-jon-ronson",
+      "t": "the longreads questionnaire featuring jon ronson",
+      "d": "2026-09-17"
+    },
+    {
+      "u": "https://wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem",
+      "t": "the ai slowdown debate crashed salesforces party",
+      "d": "2026-09-17"
+    },
+    {
+      "u": "https://jurist.org/news/2026/09/thailand-and-cambodia-begin-un-backed-conciliation-process-over-conflicting-maritime-boundary-claims",
+      "t": "thailand and cambodia begin un backed conciliation process over conflicting maritime boundary claims",
+      "d": "2026-09-17"
+    },
+    {
+      "u": "https://rockpapershotgun.com/you-can-never-see-outside-of-yourself-the-house-before-is-a-body-horror-game-in-which-you-are-a-house-tunnelling-through-its-own-soul",
+      "t": "you can never see outside of yourself the house before is a body horror game in which you are a house tunnelling through its own soul",
+      "d": "2026-09-17"
+    },
+    {
+      "u": "https://wired.com/story/zoro-promo-code",
+      "t": "top zoro promo codes for september 2026",
+      "d": "2026-09-18"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/17/not-using-a-smartphone-burdens-others",
+      "t": "not using a smartphone burdens others",
+      "d": "2026-09-18"
+    },
+    {
+      "u": "https://newyorker.com/news/the-lede/mail-in-voting-survives",
+      "t": "mail in voting survives",
+      "d": "2026-09-18"
+    },
+    {
+      "u": "https://pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6",
+      "t": "the pc platform is becoming more and more important take two chief says as we continue to wonder when were going to get gta 6",
+      "d": "2026-09-18"
+    },
+    {
+      "u": "https://newyorker.com/humor/shouts-murmurs/arrangements-i-would-accept",
+      "t": "arrangements i would accept",
+      "d": "2026-09-19"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/16/use-of-flock-cameras-is-not-a-fourth-amendment-search-district-court-rules",
+      "t": "use of flock cameras is not a fourth amendment search district court rules",
+      "d": "2026-09-19"
+    },
+    {
+      "u": "https://wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature",
+      "t": "he won the nobel prize for protein design now he uses ai to create molecules not found in nature",
+      "d": "2026-09-19"
+    },
+    {
+      "u": "https://eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
+      "t": "today we are fighting fear final hearing in rockstar games vs fired gta 6 developers employment tribunal begins",
+      "d": "2026-09-19"
+    },
+    {
+      "u": "https://nautil.us/is-this-massive-new-study-on-the-benefits-of-whole-grains-part-of-the-war-on-protein-rfk-jr-is-ending-1285119",
+      "t": "is this massive new study on the benefits of whole grains part of the war on protein rfk jr is ending nautilus",
+      "d": "2026-09-20"
+    },
+    {
+      "u": "https://eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
+      "t": "blizzard explains why its revealing starcraft and diablo 5 release dates so far away we want to convey confidence in some of our biggest bets",
+      "d": "2026-09-20"
+    },
+    {
+      "u": "https://chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "t": "ai and the destruction of the creative commons",
+      "d": "2026-09-20"
+    },
+    {
+      "u": "https://jurist.org/news/2026/09/un-experts-belarus-weaponized-criminal-justice-system-against-government-dissent",
+      "t": "un experts belarus weaponized criminal justice system against government dissent",
+      "d": "2026-09-20"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/16/the-anti-nazi-law",
+      "t": "the anti nazi law",
+      "d": "2026-09-21"
+    },
+    {
+      "u": "https://eurogamer.net/runescape-generative-ai-clone-taken-down",
+      "t": "what in the vibe coded s is this runescape players revolt as gen ai copycat game appears and eventually attracts the eye of jagex",
+      "d": "2026-09-21"
+    },
+    {
+      "u": "https://newyorker.com/books/what-were-reading/the-new-yorkers-coverage-of-the-2026-national-book-award-fiction-nominees",
+      "t": "the new yorkers coverage of the 2026 national book award fiction nominees",
+      "d": "2026-09-21"
+    },
+    {
+      "u": "https://wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream",
+      "t": "adopt this data center plushie and hear its piercing scream",
+      "d": "2026-09-21"
+    },
+    {
+      "u": "https://eurogamer.net/blood-of-dawnwalker-budget-revealed",
+      "t": "the blood of dawnwalker cost less than expected to make but former netease investor defends its status as a top tier production",
+      "d": "2026-09-22"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/18/new-article-landor-v-louisiana-department-of-corrections-bringing-clarity-to-the-necessary-and-proper-clause",
+      "t": "new article landor v louisiana department of corrections bringing clarity to the necessary and proper clause",
+      "d": "2026-09-22"
+    },
+    {
+      "u": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "t": "introducing gpt 6 sol and luna",
+      "d": "2026-09-22"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/28/why-i-free-solo-el-capitan",
+      "t": "why i free solo el capitan",
+      "d": "2026-09-22"
+    },
+    {
+      "u": "https://rockpapershotgun.com/wardogs-presents-a-different-kind-of-fps-power-fantasy-making-fat-stacks-as-a-pacifist-rideshare-driver",
+      "t": "wardogs presents a different kind of fps power fantasy making fat stacks as a pacifist rideshare driver",
+      "d": "2026-09-23"
+    },
+    {
+      "u": "https://newyorker.com/news/fault-lines/how-the-absence-of-shame-weakens-democracy",
+      "t": "how the absence of shame weakens democracy",
+      "d": "2026-09-23"
+    },
+    {
+      "u": "https://harvardlawreview.org/print/vol-139/exploring-the-limits-of-qualified-immunity-under-harlows-discretionary-function-test",
+      "t": "exploring the limits of qualified immunity under harlows discretionary function test harvard law review",
+      "d": "2026-09-23"
+    },
+    {
+      "u": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries",
+      "t": "seattle city council votes to ban surveillance pricing in sale of groceries",
+      "d": "2026-09-23"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/28/learning-to-yearn-with-georgia-oakley",
+      "t": "learning to yearn with georgia oakley",
+      "d": "2026-09-24"
+    },
+    {
+      "u": "https://rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
+      "t": "blizzard say battle net isnt looking to fight steam and epic for supermassive storefront supremacy despite recently nabbing the witcher 3 and cyberpunk 2077",
+      "d": "2026-09-24"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/19/when-youre-in-a-college-electrical-circuits-lab-better-follow-the-teachers-instructions",
+      "t": "when youre in a college electrical circuits lab better follow the teachers instructions",
+      "d": "2026-09-24"
+    },
+    {
+      "u": "https://wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev",
+      "t": "bentley wants its torcal suv to break the curse of the luxury ev",
+      "d": "2026-09-24"
+    },
+    {
+      "u": "https://harvardlawreview.org/print/vol-139/civil-rights-deserts-appendix",
+      "t": "appendix to civil rights deserts harvard law review",
+      "d": "2026-09-25"
+    },
+    {
+      "u": "https://eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
+      "t": "hideo kojima doesnt know if physint will be released on ps5 and he hasnt decided if its going to use sonys decima game engine",
+      "d": "2026-09-25"
+    },
+    {
+      "u": "https://nautil.us/behold-crawzilla-the-not-quite-biggest-crayfish-ever-caught-1285273",
+      "t": "behold crawzilla the not quite biggest crayfish ever caught nautilus",
+      "d": "2026-09-25"
+    },
+    {
+      "u": "https://wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later",
+      "t": "an openai agent hacked australias health service their government found out months later",
+      "d": "2026-09-25"
+    },
+    {
+      "u": "https://longreads.com/2026/09/16/the-violent-feud-that-shocked-the-horse-world",
+      "t": "the violent feud that shocked the horse world",
+      "d": "2026-09-26"
+    },
+    {
+      "u": "https://rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps",
+      "t": "ahead of gta 6 rockstar warn modders against making unofficial main story expansions unauthorised ports and mods that combine gta maps",
+      "d": "2026-09-26"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/24/tro-issued-ordering-reinstatement-of-cnn-ms-now-and-politico-white-house-access",
+      "t": "tro issued ordering reinstatement of cnn ms now and politico white house access",
+      "d": "2026-09-26"
+    },
+    {
+      "u": "https://ollaya.dev",
+      "t": "ollaya run decision models locally",
+      "d": "2026-09-26"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/09/28/the-return-of-salt",
+      "t": "the return of salt",
+      "d": "2026-09-27"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/26/may-president-trump-exclude-cnn-from-air-force-one-very-likely-yes",
+      "t": "may president trump exclude cnn from air force one very likely yes",
+      "d": "2026-09-27"
+    },
+    {
+      "u": "https://rockpapershotgun.com/the-sunday-papers-829",
+      "t": "the sunday papers",
+      "d": "2026-09-27"
+    },
+    {
+      "u": "https://wired.com/story/reebok-discount-code",
+      "t": "top reebok discount codes 15 off september 2026",
+      "d": "2026-09-27"
+    },
+    {
+      "u": "https://scotusblog.com/2026/09/for-the-third-time-supreme-court-declines-to-allow-missouri-to-use-congressional-map-expected-to",
+      "t": "for the third time supreme court declines to allow missouri to use congressional map expected to aid republicans",
+      "d": "2026-09-28"
+    },
+    {
+      "u": "https://newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "t": "the teen portraits that captivated sofia coppola",
+      "d": "2026-09-28"
+    },
+    {
+      "u": "https://eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
+      "t": "new 200gb gta 5 leak suggests rockstar scrapped a massive liberty city dlc alongside the agent trevor expansion and reportedly includes very early gta 6 work",
+      "d": "2026-09-28"
+    },
+    {
+      "u": "https://wired.com/story/ovary-activity-after-menopause",
+      "t": "the ovary is surprisingly active after menopause scientists are trying to figure out why",
+      "d": "2026-09-28"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/09/25/anthropics-supply-chain-risk-designation-stemmed-from-its-refusing-to-agree-to-contract-terms-not-its-speech",
+      "t": "anthropics supply chain risk designation stemmed from its refusing to agree to contract terms not its speech",
+      "d": "2026-09-29"
+    },
+    {
+      "u": "https://rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds",
+      "t": "prebuilt steam machine faceplate screens are here delivering decent surprisingly cheaper alternatives to valve approved diy builds",
+      "d": "2026-09-29"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/10/05/the-president-vs-the-press",
+      "t": "the president vs the press",
+      "d": "2026-09-29"
+    },
+    {
+      "u": "https://wired.com/story/shark-air-purifier-deal-october-2026",
+      "t": "i test air purifiers and these are the deals id shop before prime day",
+      "d": "2026-09-29"
+    },
+    {
+      "u": "https://pcgamer.com/games/call-of-duty/modern-warfare-4s-newest-map-is-actually-older-than-the-gen-z-and-alpha-teens-who-will-play-it",
+      "t": "modern warfare 4s newest map is actually older than the gen z alpha teens who will play it",
+      "d": "2026-10-29"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/10/29/the-law-and-democrats-allegedly-recruiting-second-dan-sullivan-to-run-in-alaska-senate-race",
+      "t": "the law and democrats allegedly recruiting second dan sullivan to run in alaska senate race",
+      "d": "2026-10-29"
+    },
+    {
+      "u": "https://wired.com/story/pura-promo-code",
+      "t": "pura promo codes 20 off for 2026",
+      "d": "2026-10-29"
+    },
+    {
+      "u": "https://newyorker.com/humor/shouts-murmurs/race-to-the-bottom-great-moments-in-the-history-of-leaders-talking-about-asses",
+      "t": "race to the bottom great moments in the history of leaders talking about asses",
+      "d": "2026-10-29"
+    },
+    {
+      "u": "https://wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity",
+      "t": "mistral says its ai model le chonk has leapfrogged china in the open weight race",
+      "d": "2026-10-30"
+    },
+    {
+      "u": "https://eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
+      "t": "8 bit horror tenebris somnia mixes weird live action horror with a retro 2d adventure to impressive and unsettling effect",
+      "d": "2026-10-30"
+    },
+    {
+      "u": "https://newyorker.com/culture/the-front-row/queen-at-sea-confronts-old-age-with-bitter-empathy",
+      "t": "queen at sea confronts old age with bitter empathy",
+      "d": "2026-10-30"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/10/27/hasan-piker-sues-scott-jennings",
+      "t": "hasan piker sues scott jennings",
+      "d": "2026-10-30"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/11/09/the-party-girls-at-the-heart-of-club-kid",
+      "t": "the party girls at the heart of club kid",
+      "d": "2026-10-31"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/10/30/short-circuit-an-inexhaustive-weekly-compendium-of-rulings-from-the-federal-courts-of-appeal-83",
+      "t": "short circuit an inexhaustive weekly compendium of rulings from the federal courts of appeal",
+      "d": "2026-10-31"
+    },
+    {
+      "u": "https://wired.com/story/nzxt-discount-code",
+      "t": "top nzxt discount codes for 2026",
+      "d": "2026-10-31"
+    },
+    {
+      "u": "https://polygon.com/gta-6-side-activities",
+      "t": "6 essential activities gta needs to let players experience in vice city",
+      "d": "2026-10-31"
+    },
+    {
+      "u": "https://rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
+      "t": "atmosfar is a giddy aerial exploration game after the heart of no mans sky but im already trying to escape it",
+      "d": "2026-11-01"
+    },
+    {
+      "u": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here",
+      "t": "techcrunch mobility a new bigger av boom is here",
+      "d": "2026-11-01"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/10/30/new-brennan-center-report-on-curbing-executive-power",
+      "t": "new brennan center report on curbing executive power",
+      "d": "2026-11-01"
+    },
+    {
+      "u": "https://newyorker.com/news/the-lede/brazils-president-faces-down-the-online-right",
+      "t": "brazils president faces down the online right",
+      "d": "2026-11-01"
+    },
+    {
+      "u": "https://nautil.us/ketamines-role-in-alleged-cornell-rape-highlights-flood-of-psychoactive-drugs-on-campus-1286212",
+      "t": "ketamines role in alleged cornell rape highlights flood of psychoactive drugs on campus nautilus",
+      "d": "2026-11-02"
+    },
+    {
+      "u": "https://scotusblog.com/2026/10/court-declines-to-restore-biden-era-regulation-allowing-some-deportation-proceedings-to-be-suspe",
+      "t": "court declines to restore biden era regulation allowing some deportation proceedings to be suspended",
+      "d": "2026-11-02"
+    },
+    {
+      "u": "https://wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium",
+      "t": "what democrats can learn from new yorks data center moratorium",
+      "d": "2026-11-02"
+    },
+    {
+      "u": "https://rockpapershotgun.com/mass-effect-5-was-named-universe-partly-because-it-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-entries-technical-director-says",
+      "t": "mass effect 5 was named universe partly because it let players generate alternate timelines based on their choices in previous entries technical director says",
+      "d": "2026-11-02"
+    },
+    {
+      "u": "https://pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow",
+      "t": "dune awakening is getting a free dlc that adds a whole new map and swaps out sand for snow",
+      "d": "2026-11-03"
+    },
+    {
+      "u": "https://wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web",
+      "t": "when you should and shouldnt use ai to search the web",
+      "d": "2026-11-03"
+    },
+    {
+      "u": "https://longreads.com/2026/11/02/elderly-seniors-screens-feeds",
+      "t": "no ipad till after dinner mom",
+      "d": "2026-11-03"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/10/29/even-trumpy-judges-and-woke-judges-might-know-more-law-than-you-do",
+      "t": "even trumpy judges and woke judges might know more law than you do",
+      "d": "2026-11-03"
+    },
+    {
+      "u": "https://eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "t": "these tools have made it very easy for bad actors to flood things ai video game wikis riddled with errors are taking over and pushing real fans to the side",
+      "d": "2026-11-04"
+    },
+    {
+      "u": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch",
+      "t": "rivian spinout also was working on an e moto project in kenya until it walked away",
+      "d": "2026-11-04"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/02/will-alito-or-thomas-retire-if-democrats-win-the-senate",
+      "t": "will alito or thomas retire if democrats win the senate",
+      "d": "2026-11-04"
+    },
+    {
+      "u": "https://nautil.us/could-one-brain-region-be-tied-to-feeling-sick-all-over-1286308",
+      "t": "could one brain region be tied to feeling sick all over nautilus",
+      "d": "2026-11-04"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/11/09/corruption-on-the-ballot",
+      "t": "corruption on the ballot",
+      "d": "2026-11-05"
+    },
+    {
+      "u": "https://eurogamer.net/dragons-dogma-2-dungeon-meshi-collaboration-out-now",
+      "t": "dragons dogma 2 gets a timed collaboration with beloved anime and manga series delicious in dungeon and its out right now on pc playstation and xbox but switch players will have to wait",
+      "d": "2026-11-05"
+    },
+    {
+      "u": "https://wired.com/story/wired-world-fair-2026-blade-runner-2099",
+      "t": "blade runner 2099 shows the silver linings of a replicant takeover",
+      "d": "2026-11-05"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/04/dont-expect-a-lame-duck-supreme-court-vacancy-but-there-are-other-nominations-to-consider",
+      "t": "dont expect a lame duck supreme court vacancy but there are other nominations to consider",
+      "d": "2026-11-05"
+    },
+    {
+      "u": "https://harvardlawreview.org/print/vol-139/introduction-to-keep-government-generally-within-the-bounds-of-law",
+      "t": "introduction to keep government generally within the bounds of law harvard law review",
+      "d": "2026-11-06"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/11/16/the-heart-theatre-review-broadway-i-became-we",
+      "t": "in the heart and i became we the rise of the hive mind musical",
+      "d": "2026-11-06"
+    },
+    {
+      "u": "https://wired.com/story/altra-promo-code",
+      "t": "top altra running promo codes and deals november 2026",
+      "d": "2026-11-06"
+    },
+    {
+      "u": "https://polygon.com/zelda-ocarina-of-time-happy-mask-shop-spooky-skull-bunny-hood",
+      "t": "all happy mask shop buyer locations in zelda ocarina of time",
+      "d": "2026-11-06"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/11/16/paper-tiger-movie-review",
+      "t": "paper tiger views family as deadweight",
+      "d": "2026-11-07"
+    },
+    {
+      "u": "https://pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important",
+      "t": "richard garriott on the state of the games industry the bells and whistles are no longer whats important",
+      "d": "2026-11-07"
+    },
+    {
+      "u": "https://wired.com/story/early-black-friday-tv-deals-11-5-26",
+      "t": "the best early black friday tv deals",
+      "d": "2026-11-07"
+    },
+    {
+      "u": "https://harvardlawreview.org/print/vol-139/aggregation-and-the-universal-injunction",
+      "t": "aggregation and the universal injunction harvard law review",
+      "d": "2026-11-07"
+    },
+    {
+      "u": "https://newyorker.com/books/what-were-reading/three-novels-that-stuck-with-chad-harbach",
+      "t": "three novels that stuck with chad harbach",
+      "d": "2026-11-08"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/04/fifth-circuit-on-pseudonymity-of-libel-defendant-who-claims-she-was-sexually-assaulted",
+      "t": "fifth circuit on pseudonymity of libel defendant who claims she was sexually assaulted",
+      "d": "2026-11-08"
+    },
+    {
+      "u": "https://eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
+      "t": "what weve been playing sniffing out the warehouses on prawn island",
+      "d": "2026-11-08"
+    },
+    {
+      "u": "https://wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk",
+      "t": "he trolls ai labs for a living now they all want to work with him",
+      "d": "2026-11-08"
+    },
+    {
+      "u": "https://wired.com/story/wired-world-fair-2026-ben-collins-the-onion",
+      "t": "area man feels joy online for first time in years",
+      "d": "2026-11-09"
+    },
+    {
+      "u": "https://rockpapershotgun.com/the-elder-scrolls-6-sentinel-teaser-all-but-confirms-hammerfell-setting-and-means-we-can-finally-stop-using-that-eight-year-old-header-image-with-the-hills",
+      "t": "the elder scrolls 6 sentinel teaser all but confirms hammerfell setting and means we can finally stop using that eight year old header image with the hills",
+      "d": "2026-11-09"
+    },
+    {
+      "u": "https://longreads.com/2026/10/27/anderson-speedway-indianas-data-centers",
+      "t": "go fast turn left the anderson speedway indianas data centers",
+      "d": "2026-11-09"
+    },
+    {
+      "u": "https://polygon.com/zelda-ocarina-of-time-remake-oot-golden-scale-how-to-get-fishing-pond",
+      "t": "how to get the golden scale in zelda ocarina of time",
+      "d": "2026-11-10"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-intervene-in-california-ballots-dispute",
+      "t": "supreme court declines trump administrations request to intervene in california ballot dispute",
+      "d": "2026-11-10"
+    },
+    {
+      "u": "https://wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling",
+      "t": "jensen huangs troubles leave the ai industry reeling",
+      "d": "2026-11-10"
+    },
+    {
+      "u": "https://newyorker.com/books/this-week-in-fiction/yasushi-inoue-11-16-26",
+      "t": "j martin holman on childhood in translation",
+      "d": "2026-11-10"
+    },
+    {
+      "u": "https://nautil.us/do-we-think-in-pictures-words-or-code-1286476",
+      "t": "do we think in pictures words or code nautilus",
+      "d": "2026-11-11"
+    },
+    {
+      "u": "https://polygon.com/the-odyssey-christopher-nolan-home-release-date",
+      "t": "christopher nolans the odyssey officially sets home release date",
+      "d": "2026-11-11"
+    },
+    {
+      "u": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine",
+      "t": "meta shocked by 25b fine after n m refused to join multistate settlement",
+      "d": "2026-11-11"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/trump-administration-brings-white-house-ballroom-battle-back-to-supreme-court",
+      "t": "trump administration brings white house ballroom battle back to supreme court",
+      "d": "2026-11-11"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/08/impeach-pete-hegseth",
+      "t": "impeach pete hegseth",
+      "d": "2026-11-12"
+    },
+    {
+      "u": "https://pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful",
+      "t": "microsofts own upscaler and alternative to fsr just landed on xbox ally x handhelds actually uses an npu for something useful",
+      "d": "2026-11-12"
+    },
+    {
+      "u": "https://nautil.us/the-what-and-when-of-longevity-dieting-1286564",
+      "t": "the what and when of longevity dieting nautilus",
+      "d": "2026-11-12"
+    },
+    {
+      "u": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "t": "ai usage generates a fragile codebase",
+      "d": "2026-11-12"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/justices-see-immigration-contract-dispute-as-raising-the-possibility-of-major-limits-on-administ",
+      "t": "justices see immigration contract dispute as raising the possibility of major limits on administrative power",
+      "d": "2026-11-13"
+    },
+    {
+      "u": "https://eurogamer.net/world-of-warcraft-forever-launch-smooth",
+      "t": "never take a day off for launch they said world of warcraft forever is off to a great start with blizzards smoothest launch in memory",
+      "d": "2026-11-13"
+    },
+    {
+      "u": "https://wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us",
+      "t": "the polar vortex is about to make weather weird from the uk to the us",
+      "d": "2026-11-13"
+    },
+    {
+      "u": "https://newyorker.com/books/what-were-reading/intimate-books-about-self-analysis-and-spirituality",
+      "t": "intimate books about self analysis and spirituality",
+      "d": "2026-11-13"
+    },
+    {
+      "u": "https://pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns",
+      "t": "indiana jones and the great circle once had a grand theft auto inspired wanted system because machinegames was afraid players would kill all the nazis with just guns",
+      "d": "2026-11-14"
+    },
+    {
+      "u": "https://wired.com/story/adidas-promo-code",
+      "t": "top adidas promo codes 25 off in november 2026",
+      "d": "2026-11-14"
+    },
+    {
+      "u": "https://newyorker.com/humor/shouts-murmurs/my-coffee-with-billy-evans",
+      "t": "my coffee with billy evans",
+      "d": "2026-11-14"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/11/why-not-seek-the-win-win",
+      "t": "why not seek the win win",
+      "d": "2026-11-14"
+    },
+    {
+      "u": "https://wired.com/story/canon-promo-code",
+      "t": "canon promo codes 30 off for november 2026",
+      "d": "2026-11-15"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/justices-consider-when-a-constitutional-rule-is-previously-unavailable-to-prisoner",
+      "t": "justices consider when a constitutional rule is previously unavailable to prisoner",
+      "d": "2026-11-15"
+    },
+    {
+      "u": "https://eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
+      "t": "whether he means to or not he serves sass all over town our regular feature where we ask what have you been playing this week",
+      "d": "2026-11-15"
+    },
+    {
+      "u": "https://newyorker.com/culture/the-lede/the-afterlife-of-dianas-revenge-dress",
+      "t": "the afterlife of dianas revenge dress",
+      "d": "2026-11-15"
+    },
+    {
+      "u": "https://wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual",
+      "t": "even black friday will be more expensive than usual",
+      "d": "2026-11-16"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction",
+      "t": "supreme court allows trump administration to continue border wall construction",
+      "d": "2026-11-16"
+    },
+    {
+      "u": "https://pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches",
+      "t": "palworld developer pocketpair gives employees time off for a 5 day business trip in vice city when gta 6 launches",
+      "d": "2026-11-16"
+    },
+    {
+      "u": "https://newyorker.com/news/the-lede/is-jensen-huangs-affair-a-crisis-for-the-ai-boom",
+      "t": "is jensen huangs affair a crisis for the a i boom",
+      "d": "2026-11-16"
+    },
+    {
+      "u": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
+      "t": "sam altman on nvidia without jensen huang the industry will be fine",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/tribal-property-and-the-supreme-court",
+      "t": "tribal property and the supreme court",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://longreads.com/2026/11/05/the-parakeets-london-invasive-species",
+      "t": "the pollycrisis",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations",
+      "t": "wolfenstein 3 and new id software game confirmed as xbox boss somehow unrelatedly shouts about one person soon wielding capabilities that once required entire nations",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://longreads.com/2026/10/30/wellness-bpc-157-pedtides-fda",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/court-to-consider-the-reach-of-article-iii-courts-in-immigration-contract-dispute",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://newyorker.com/magazine/2026/11/16/john-cusack-goes-graphic",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://pcgamer.com/hardware/who-is-colette-kress-nvidias-new-interim-ceo",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://scotusblog.com/2026/11/justices-dubious-of-fee-award-in-eminent-domain-dispute-about-interstate-pipeline",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://newyorker.com/humor/shouts-murmurs/dear-age-gap-expert",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://polygon.com/new-tv-shows-streaming-this-weekend-netflix-november-13-15",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/11/the-president-nominates-circuit-judges-not-senators",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/12/if-you-commit-a-crime-with-a-gun-you-might-not-want-to-use-a-purple-gun-with-a-blue-laser-sight",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://eurogamer.net/queens-domain-now-playing",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://newyorker.com/culture/the-new-yorker-documentary/after-the-war-they-turned-the-cameras-on-themselves-in-allies-in-exile",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://newyorker.com/culture/photo-booth/living-in-normaltown-and-feeling-anything-but",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/10/school-districts-negligence-and-nuisance-claims-against-social-media-companies-rejected-by-california-court-of-appeal",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/13/short-circuit-an-inexhaustive-weekly-compendium-of-rulings-from-the-federal-courts-of-appeal-84",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://newyorker.com/culture/infinite-scroll/the-writers-trying-to-make-news-on-youtube",
+      "t": "",
+      "d": "2026-11-17"
+    },
+    {
+      "u": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship",
+      "t": "the catch in ibms offer to relocate its u s based immigrant workers",
+      "d": "2026-11-25"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/23/florida-law-allowing-bar-liability-for-knowingly-serving-habitually-addicted-doesnt-apply-when-server-only-saw-one-drinking-session",
+      "t": "florida law allowing bar liability for knowingly serving habitually addicted doesnt apply when server only saw one drinking session",
+      "d": "2026-11-25"
+    },
+    {
+      "u": "https://pcgamer.com/gaming-industry/former-dragon-age-boss-questions-whether-bioware-should-have-become-a-one-project-studio-dropping-either-mass-effect-or-dragon-age-to-survive-ea",
+      "t": "former dragon age boss questions whether bioware should have become a one project studio dropping either mass effect or dragon age to survive ea",
+      "d": "2026-11-25"
+    },
+    {
+      "u": "https://theconversation.com/oscar-wilde-had-a-surprising-rapport-with-colorado-miners-why-it-is-hard-to-imagine-that-happening-today-294318",
+      "t": "oscar wilde had a surprising rapport with colorado miners why it is hard to imagine that happening today",
+      "d": "2026-11-25"
+    },
+    {
+      "u": "https://restofworld.org/2026/ai-jobs-skills-gig-work",
+      "t": "ai isnt replacing your job its turning it into low paid gig work",
+      "d": "2026-11-26"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/22/the-quorum-clause-case",
+      "t": "the quorum clause case",
+      "d": "2026-11-26"
+    },
+    {
+      "u": "https://rockpapershotgun.com/vote-now-for-2026s-rps-100-reader-edition",
+      "t": "vote now for 2026s rps 100 reader edition",
+      "d": "2026-11-26"
+    },
+    {
+      "u": "https://daily.jstor.org/six-short-stories-that-play-with-time",
+      "t": "six short stories that play with time jstor daily",
+      "d": "2026-11-26"
+    },
+    {
+      "u": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "t": "anthropics dario amodei calls accusations of surrendering human control to ai absurd",
+      "d": "2026-11-27"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/24/bob-woodward-interviews-justice-kagan-or-does-justice-kagan-interview-bob-woodward",
+      "t": "bob woodward interviews justice kagan or does justice kagan interview bob woodward",
+      "d": "2026-11-27"
+    },
+    {
+      "u": "https://eurogamer.net/tenebrae-lux-gta-6-now-playing",
+      "t": "i completed gta 6s indie game darling pastiche tenebrae lux and all i got was this lousy sense of accomplishment",
+      "d": "2026-11-27"
+    },
+    {
+      "u": "https://theconversation.com/trump-administration-may-fund-white-south-africans-to-document-hateful-rhetoric-and-violent-acts-296360",
+      "t": "trump administration may fund white south africans to document hateful rhetoric and violent acts",
+      "d": "2026-11-27"
+    },
+    {
+      "u": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic",
+      "t": "chinese ai firms want silicon valleys top minds poaching them wont be easy",
+      "d": "2026-11-28"
+    },
+    {
+      "u": "https://reason.com/volokh/2026/11/23/n-y-lawyer-disciplined-for-antisemitic-and-threatening-language-physical-aggression-towards-jewish-artists-for-palestine-demonstrators",
+      "t": "n y lawyer disciplined for antisemitic and threatening language physical aggression towards jewish artists for palestine demonstrators",
+      "d": "2026-11-28"
+    },
+    {
+      "u": "https://rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
+      "t": "despite being 61 7 million in debt bankrupt mindseye devs build a rocket boy are splurging on legal action against a coordinated campaign of negative online reviews",
+      "d": "2026-11-28"
+    },
+    {
+      "u": "https://theconversation.com/columbia-is-keeping-its-gates-closed-raising-the-question-of-what-universities-owe-their-neighborhoods-297102",
+      "t": "columbia is keeping its gates closed raising the question of what universities owe their neighborhoods",
+      "d": "2026-11-28"
+    }
+  ],
+  "buffer": [
+    {
+      "id": "aef15990ef",
+      "url": "https://daily.jstor.org/when-colorado-closed-its-border-to-new-mexico/",
+      "title": "When Colorado Closed Its Border to New Mexico - JSTOR Daily",
+      "source": "JSTOR Daily",
+      "author": "@JSTOR_Daily",
+      "category": "fun",
+      "wordCount": 732,
+      "minutes": 4,
+      "published": "2026-11-23T14:55:09.000Z",
+      "content": "<p>\n\t\t\t\t\t\t\t\tThe  icon indicates free access to the linked research on JSTOR.\n\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t<p>By the 1930s, the federal government was in charge of immigration, having centralized and formalized the ad hoc immigration regimes cities and states had developed during the nineteenth century. So it was news in April 1936, when Colorado Governor Edwin C. “Big Ed” Johnson declared martial law along the border with… the neighboring state of New Mexico. Johnson publicized his action as a blockade to stop a supposed “invasion” of “alien and indigent persons.”</p>\n<p>When his earlier proposal to set up concentration camps for Mexican immigrant workers, who were pressing for higher wages in the sugar beet industry, came to naught, he hit upon the border blockade gambit. Political scientist Monica W. Varsanyi writes of Johnson’s “<a href=\"https://www.jstor.org/stable/10.5406/jamerethnhist.40.1.0005?mag=when-colorado-closed-its-border-to-new-mexico\" target=\"_blank\" rel=\"noopener noreferrer\">classic example of political entrepreneurship</a>”:</p>\n<blockquote><p>Although his plans had little actual impact on Colorado’s agricultural labor market or welfare relief load, they resulted in an outpouring of public support, which he exploited in his successful run for the US Senate later in 1936.”</p></blockquote>\n<p>Beyond yet another precedent for the political benefits of racism and nativism, Johnson’s actions present a case study of racialization, the political and ideological process of race-making and the creation of color lines. The militarized race border between two US states, continues Varsanyi:</p>\n<blockquote><p>created circumstances in which the <em>social</em> boundary between who belonged and who fell outside of citizenship and belonging was both heightened and vigorously contested in this uniquely multi-ethnic region populated by Anglos, native-born Hispanics, Mexican immigrants, and Native Americans.</p></blockquote>\n<p>American citizenship had originally been granted to “free white” persons in the Naturalization Act of 1790. The territory conquered in the Mexican–American War added at least 80,000 people to the rolls of <a href=\"https://daily.jstor.org/the-treaty-of-guadalupe-hidalgo-annotated/\" target=\"_blank\" rel=\"noopener noreferrer\">American citizenship in 1848</a>. These Mexican Americans and their descendants therefore were considered white in federal law. But this was a precarious whiteness. In the Southwest, Mexican Americans were second-class citizens. Regardless of <em>de jure</em> law, Anglos did not see them as white and <a href=\"https://daily.jstor.org/the-untold-history-of-lynching-in-the-american-west/\" target=\"_blank\" rel=\"noopener noreferrer\">treated them accordingly</a>. “Juan Crow” segregation covered housing, education, and employment.</p>\n<p>Varsanyi quotes Colorado resident and US citizen Filigonio Arellano, “During wartime and when they need my vote, white people call me an American. If I need a loan, I am Spanish. And if I’m applying for a job they call me Mexican.”</p>\n<p>Nonetheless, Johnson’s blockade received a good bit of support from native-born Hispanics. These US citizens tried to distinguish themselves as “Spanish Americans” or “Hispanos” in opposition to Mexicans. “Spanish-speaking New Mexicans, elite and impoverished alike, rebuffed claims of <em>mestizo</em>, ‘impure,’ or ‘mixed’ blood by tracing their lineage back to Europe and Spain, not Mexico.”</p>\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\t<h3><a href=\"https://daily.jstor.org/birth-of-a-national-immigration-policy/\" target=\"_blank\" rel=\"noopener noreferrer\">Birth of A National Immigration Policy</a></h3>\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\tFebruary 15, 2024\t\t\t\t</p>\n\t\t\t\t<p>Until the Civil War, regulating immigration to the US was left to individual states. That changed with Emancipation and the legal end of slavery.</p>\t\t\t\n\t\t\n<p>There was some “solidarity between Hispanic and Mexican workers, mainly within the labor movement and religious communities,” but otherwise little sense of a “pan ethnic/pan-Hispanic solidarity or ‘Mexicanness.’”</p>\n<p>Of course, to a racist, birthplace or citizenship hardly mattered. New Mexico residents who were US citizens who tried going north for work in Colorado’s sugar beet, railroad, mining, and sheep-herding industries, as they had for decades, found that they were classified as “aliens” and “Mexicans” and turned back.</p>\n\t\n\t\t<h4>Weekly Newsletter</h4>\n                \n\t\t\t\t\t\t\t<p>\"*\" indicates required fields</p>\n                        \n\t\n<p>The blockade only lasted eleven days. Pressure from the powerful sugar beet interests—who could not get white Coloradans to work under the industry’s brutal conditions—and rising tensions with New Mexico likely led Johnson to call it off. A marked increase in racism persisted long after, however.</p>\n<p>Johnson himself would go on to serve three terms in the US Senate before becoming Colorado governor again in 1955. On both <a href=\"https://en.wikipedia.org/wiki/Edwin_C._Johnson\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia</a> and the <a href=\"https://www.coloradovirtuallibrary.org/resource-sharing/state-pubs-blog/colorados-governors-edwin-c-johnson/\" target=\"_blank\" rel=\"noopener noreferrer\">Colorado Virtual Library</a>, only a single senatorial achievement is highlighted: on the floor of the US Senate in 1950, he denounced Hollywood star <a href=\"https://daily.jstor.org/casablanca-at-75/\" target=\"_blank\" rel=\"noopener noreferrer\">Ingrid Bergman</a> as “a powerful influence for evil” and an “apostle of degradation” because of her extramarital affair with director <a href=\"https://daily.jstor.org/end-american-film-censorship/\" target=\"_blank\" rel=\"noopener noreferrer\">Roberto Rossellini</a>.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t<h2>Resources</h2>\n\t\t\t<p>\n\t\t\t\tJSTOR is a digital library for scholars, researchers, and students. JSTOR Daily readers can access the original research behind our articles for free on JSTOR.\t\t\t</p>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\tBy: Monica W. Varsanyi \t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\tJournal of American Ethnic History, Vol. 40, No. 1 (Fall 2020), pp. 5-39\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\tUniversity of Illinois Press on behalf of the Immigration &amp; Ethnic History Society\t\t\t\t\t\t</p>\n\t\t\t\t\t\n\t\t\n\t\n\t\t<h4>Get Our Newsletter</h4>\n                \n\t\t\t\t\t\t\t<p>\"*\" indicates required fields</p>",
+      "fetchedAt": "2026-11-28T02:03:26.518Z"
+    },
+    {
+      "id": "7ca478ce26",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+      "title": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'",
+      "source": "PC Gamer",
+      "author": "Andy Chalk",
+      "category": "gaming",
+      "wordCount": 602,
+      "minutes": 3,
+      "published": "2026-11-23T17:54:30.000Z",
+      "content": "<p><a href=\"https://www.pcgamer.com/grand-theft-auto-6/\" target=\"_blank\" rel=\"noopener noreferrer\">Grand Theft Auto 6</a> leaker Cyberleek appears to have followed through on their threat to release the executable of the Xbox build of <a href=\"https://www.pcgamer.com/grand-theft-auto-6/\" target=\"_blank\" rel=\"noopener noreferrer\">GTA 6</a> they put into the wild last week, calling it \"an early Christmas gift\" for followers and explicitly linking the leak to efforts to recreate the game on PC: \"The torch passes to the open source recomp and emulation projects.\"</p><p>Cyberleek released a near-complete build of GTA 6 late last week, holding back only the main exe—the part that makes everything else run, basically—until either their crypto coin achieved a $15 million market cap, or November 23, whichever came first. The crypto missed badly, but time marches on, and so here we are.</p><p>The release of the exe, naturally, includes a call for more \"donations\" in its <a href=\"https://pastebin.com/raw/Ak4auAQv\" target=\"_blank\" rel=\"noopener noreferrer\">readme file</a> (via <a href=\"https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/?utm_source=ifttt\" target=\"_blank\" rel=\"noopener noreferrer\">Reddit</a>) which Cyberleek said will go toward a secretive project \"for the gamers.\" They also taunted Take-Two Interactive's efforts to <a href=\"https://www.pcgamer.com/games/grand-theft-auto/take-two-kicks-off-gta-6-leaker-hunt-with-subpoenas-demanding-records-from-microsoft-and-discord/\" target=\"_blank\" rel=\"noopener noreferrer\">track them down</a>: \"Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving. No budget makes a lock unbreakable, and no court order deletes what the internet already has.\"</p><p>Leaks in the game industry aren't anything new, but this case is unique: GTA 6, effectively the biggest videogame of all time, still hasn't been announced for PC, as is <a href=\"https://www.pcgamer.com/games/grand-theft-auto/theres-really-only-one-reason-for-rockstar-to-release-grand-theft-auto-6-later-on-pc/\" target=\"_blank\" rel=\"noopener noreferrer\">Take-Two's way</a>. But the advent of AI means the game could be emulated on our platform far more quickly than was possible in the past—some modders estimated it could happen within a week.</p><p>One of the leads on the Leonida recomp project predicted that things will start to move quickly from here:</p><p>At the same time, Shayder tempered expectations in a message on the Leonida Discord, saying \"it will take at least a week\" for the project to reach the point where GTA will be playable on PC.</p><p>How that unofficial emulated made-with-AI build would compare to the real deal is an open question, and I strongly suspect the answer will be \"not well,\" but even just having something GTA 6-ish playable on PC is a headache that I'm pretty sure Take-Two would rather not have to deal with. I also wonder whether it will prompt Take-Two to release GTA 6 on PC more quickly than it has with previous releases. A rumor to that effect <a href=\"https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/\" target=\"_blank\" rel=\"noopener noreferrer\">surfaced in October</a> and I had serious doubts, but it's possible that ongoing emulation efforts will expedite its arrival..</p>\n\n<p>The biggest gaming news, reviews and hardware deals</p>\n\n<p>Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team.</p>\n\n<p>I haven't verified whether the released exe is legit, but the previously-released material appears to be and the general consensus is that this is too. And with that, I will remind you (yes, again) that software piracy is illegal, and shady files from strangers on the internet can contain malware.</p>\n\n<p>Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill.</p>",
+      "fetchedAt": "2026-11-26T02:17:59.470Z"
+    },
+    {
+      "id": "aa09a0ba78",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
+      "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+      "source": "Wired",
+      "author": "@wired",
+      "category": "tech",
+      "wordCount": 726,
+      "minutes": 4,
+      "published": "2026-11-17T11:00:00.000Z",
+      "content": "<p>Rachel Accurso, better known by her stage name <a href=\"https://www.wired.com/video/watch/autocomplete-interview-ms-rachel\" target=\"_blank\" rel=\"noopener noreferrer\">Ms. Rachel</a>, specializes in making videos for babies and toddlers. She started as a <a href=\"https://www.wired.com/story/future-of-childrens-television-youtube-roblox/\" target=\"_blank\" rel=\"noopener noreferrer\">DIY creator</a> on <a href=\"https://www.wired.com/tag/youtube/\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a>, working with her musician husband Aron and shooting around New York on a shoestring budget. To an adult with a fully formed frontal lobe, her videos can be, well, a bit much: a whole lot of close-ups on Accurso’s mouth making shapes, cutesy stomp-clap sessions, and winsome nursery rhymes.</p><p>To children, though, the videos are a portal into a temporary bliss state so powerful that many parents have come to view Accurso as a quasi-­mythical figure. She has racked up billions of views and gained so many fervent fans that she inked a juicy deal with <a href=\"https://www.wired.com/tag/netflix/\" target=\"_blank\" rel=\"noopener noreferrer\">Netflix</a> last year, cementing her status as the biggest star in digital children’s entertainment. This fall, she released her first album, <em>I’m So Happy</em>, and she sells a slate of branded toys and picture books. But when people look back on 2026, they’ll likely remember Ms. Rachel for something unrelated to her kid-centric empire: offering an example, for adults, of how to be a good person.</p><p>Accurso speaks in a singsong voice when she’s performing in her trademark denim overalls and bubblegum-pink shirt. The former preschool music teacher started out hoping to create videos to help her son communicate, focusing on sign language, repetition, and other strategies employed by language development specialists. The saccharine voice is part of it. Research indicates that speaking in high-pitched, rhythmic patterns best spurs imitations from kids.</p><p>But this cotton-candy tone belies the convictions that drive Accurso professionally and personally. She is perhaps the single staunchest celebrity advocate for children and has faced fierce criticism for her advocacy on behalf of Palestinian kids. On her show, she has featured children like Rahaf Saed, a toddler who became a double amputee after an Israeli air strike hit her home in Gaza. At an awards ceremony, Accurso wore a dress embroidered with artwork from Gazan children. Recently, she pledged $1 million to the Palestinian Children’s Relief Fund; she’s gone so far as to insist that all of her collaborators speak on the issue and has called out celebrities who fail to do so.</p><p>She’s often compared to Mr. Rogers, but Accurso is as much an inheritor of Jane Fonda’s activist mantle. Blowback to her advocacy has been intense—pro-Israel groups have accused Accurso of antisemitism. One of these groups even wrote to Florida’s attorney general, asking for Accurso to be investigated as a potential “foreign agent” spewing “Hamas-aligned propaganda.” None of this has deterred her from speaking out. “I would risk everything, and I will risk my career over and over to stand up” for kids, she said in a radio interview last year.</p><p>Accurso’s willingness to duke it out doesn’t end with Gaza. She has weathered right-wing ire for employing nonbinary performer Jules Hoffman, for celebrating Pride Month, and for speaking out against ICE. She helped draw attention to the plight of a nonverbal 5-year-old imprisoned at a South Texas detention center by featuring a Zoom call with him on her social media. An immigration lawyer saw Accurso’s post and connected with the boy’s family, helping secure his release. “We need to put children’s lives and human lives before our hesitations,” Accurso said in an interview about her activism around ICE detentions. “I just urge everyone, especially those with huge platforms and privilege, to speak out.” For her efforts, Fox News described Accurso as “really sinister.”</p><p>Talk to anyone who has encountered Accurso in person and they’re likely to share a glowing story about how lovely she is. I’ll add mine to the pile. A few years ago, when I interviewed her for a story about YouTube and children’s television, I was bleary-eyed on Zoom after a long night with a teething baby. I mentioned that my then 1-year-old adored her videos, especially a song she sings about hopping bunnies, and that I’d sung it to him at night. A few weeks later, I got an email from Accurso. It had a video attached; she’d made my son a personalized sing-along, making sure to say his name repeatedly during the Bunny Hop song so he knew it was something special, just for him.</p><p><em>What did we miss? Tell us about your favorite moments of 2026 in the comments below.</em></p>",
+      "fetchedAt": "2026-11-25T07:21:00.120Z"
+    },
+    {
+      "id": "ede27768ab",
+      "url": "https://www.newyorker.com/magazine/2026/11/30/letters-from-the-november-30-and-december-7-2026-issue",
+      "title": "Letters from Our Readers",
+      "source": "The New Yorker",
+      "author": "@NewYorker",
+      "category": "fun",
+      "wordCount": 892,
+      "minutes": 4,
+      "published": "2026-11-23T11:00:00.000Z",
+      "content": "<h2>Game Changers</h2><p>With the Golden State Valkyries shattering records in the W.N.B.A. last season, <em>The New Yorker’s</em> decision to put the Knicks on a recent cover is a missed opportunity (“<a href=\"https://www.newyorker.com/culture/cover-story/cover-story-2026-10-26\" target=\"_blank\" rel=\"noopener noreferrer\">Make It Two</a>,” October 26th).</p><p>The Valkyries, in their inaugural season, in 2025, posted a 23–21 record and became the only W.N.B.A. team to reach the playoffs in its first year. In 2026, they improved to 32–12; earned the league’s No. 2 playoff seed; swept the defending champions in the semifinals; and advanced to the Finals. No expansion team has ever reached the Finals so quickly.</p><p>Their success extends beyond the scoreboard. The Valkyries have sold out all of their regular-season home games, averaging 18,064 fans per game—the same reported average attendance as their arena mates, the Warriors, during the 2025-26 N.B.A. season. With more than twelve thousand season-ticket holders and an apparent renewal rate exceeding ninety per cent for 2027, the popularity of the Valkyries is not a passing novelty but a testament to the growing cultural power of women’s sports.</p><p>Of course, the Knicks have a storied legacy. But why default to familiar heroes when history is being made before our eyes? The Valkyries are building a legacy in record time, and they deserve our attention. Give them their moment. Better yet, give them the cover.</p><p><em>Rebecca North</em><br /><em>San Anselmo, Calif.</em></p><h2>Too Big to Fail</h2><p>I can’t help but feel that Justin Chang’s review of Javier Ambrossi and Javier Calvo’s “La Bola Negra” misses the point of the film (<a href=\"https://www.newyorker.com/culture/the-current-cinema/the-insistent-monumentality-of-la-bola-negra\" target=\"_blank\" rel=\"noopener noreferrer\">The Current Cinema</a>, November 3rd). Chang rightfully traces the film’s queer art-house DNA, but there’s another touchstone: “Titanic” (1997). Ambrossi and Calvo have made this comparison, albeit jokingly, and a character in the film even pays homage to old Rose: “The heart of a faggot is an ocean full of secrets.”</p><p>Viewed through this lens, the monumentality of “La Bola Negra” makes far more sense. What Chang sees as a failure to fully realize the movie’s characters I see as a distinct way to bring them to life. The film pushes us to feel the characters’ longing instead of trying to rationalize it. No one asks that Jack’s psychology justify his self-sacrificing love for Rose; we simply understand his affection. So why should the character Sebastián need any more explanation to trumpet “his agony to the skies”? He has no choice but to do so, because the world in which he exists won’t allow him to express his anguish in any other way.</p><p>The film invites us to experience queer love on an epic scale. And, frankly, if the straights can have “Titanic,” why can’t the gays have “La Bola Negra”?</p><p><em>Michael Filocamo</em><br /><em>London, England</em></p><h2>Ahead of the Curve</h2><p>Rivka Galchen, in her piece on A.I. and mathematics, explains that math is perceived as often “leading to all sorts of unexpected applications, like public-key cryptography and G.P.S.” (“<a href=\"https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever\" target=\"_blank\" rel=\"noopener noreferrer\">Proof of Concept</a>,” November 9th). But the mathematician John Urschel, Galchen writes, insists that instrumental justifications of math have “never been true.” His assertion conflates two claims about such justifications: that they don’t motivate mathematicians, and that they aren’t in the interest of the general public. The former is correct. The latter is not.</p><p>The returns on fundamental research are heavy-tailed: most ventures produce nothing practical, but the few that do pay for the enterprise many times over. The applications Galchen mentions are textbook examples. Number theory, which underlies cryptography, was famously praised for its uselessness by G. H. Hardy. Bernhard Riemann developed the geometry upon which G.P.S. rests decades before general relativity pointed toward any practical use for his work.</p><p>Revolutionary advancements depend on the willingness of researchers to investigate fundamental structures—suggested by, but often abstracted significantly from, tangible phenomena—for the wholly quixotic reasons Urschel describes, because problems chosen for foreseeable uses yield only foreseeable uses. With funding hanging in the balance, and A.I. creating increasing pressure against it, it’s critical to emphasize this.</p><p><em>Mihir Goyal</em><br /><em>Singapore</em></p><h2>The Good Fight</h2><p>“The next Congress will succeed not through an obsession with retribution and punishment but by delivering on the myriad hopes and demands of the voters who elected its members,” David Remnick writes, in his recent <a href=\"https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever\" target=\"_blank\" rel=\"noopener noreferrer\">Comment</a> (November 16th). Congress must certainly deliver on the hopes of voters, but accountability is not retribution, and enforcing the law isn’t incompatible with improving people’s lives.</p><p>Calls to turn the page run the risk of enabling impunity. President Barack Obama’s decision, upon his election, to “look forward” rather than to launch an investigation into the potential wrongdoings of the George W. Bush Administration set a troubling precedent and probably contributed to the resurgence of the Republican Party in 2010, 2016, and 2024.</p><p>Congress can pursue a constructive agenda while still examining abuses and insuring that individuals and institutions are brought to justice. Upholding the rule of law would itself be a positive change, and one that voters have every reason to demand.</p><p><em>Donald A. Smith</em><br /><em>Mercer Island, Wash.</em></p><p>•</p><p><em>Letters should be sent with the writer’s name, address, and daytime phone number via e-mail to <a>themail@newyorker.com</a>. Letters may be edited for length and clarity, and may be published in any medium. We regret that owing to the volume of correspondence we cannot reply to every letter.</em></p>",
+      "fetchedAt": "2026-11-25T07:20:59.704Z"
+    }
+  ],
+  "feedHealth": {
+    "Ars Technica": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 20
+    },
+    "The Verge": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 10
+    },
+    "Wired": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 60
+    },
+    "TechCrunch": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 20
+    },
+    "Rest of World": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 12
+    },
+    "Hacker News Best": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 30
+    },
+    "SCOTUSblog": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 25
+    },
+    "Harvard Law Review": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 10
+    },
+    "The Volokh Conspiracy": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 48
+    },
+    "Lawfare": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 1
+    },
+    "PC Gamer": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 50
+    },
+    "Polygon": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 10
+    },
+    "Rock Paper Shotgun": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 100
+    },
+    "Eurogamer": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 100
+    },
+    "The New Yorker": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 50
+    },
+    "The Conversation": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 50
+    },
+    "JSTOR Daily": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 10
+    },
+    "Psyche": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 20
+    },
+    "Nautilus": {
+      "consecutiveFailures": 0,
+      "lastOk": "2026-11-28",
+      "lastItems": 10
+    }
+  },
+  "categoryMisses": {
+    "tech": 0,
+    "law": 0,
+    "gaming": 0,
+    "fun": 0
+  },
+  "lastRun": {
+    "date": "2026-11-28",
+    "startedAt": "2026-11-28T02:03:24.578Z",
+    "durationMs": 2722,
+    "articles": [
+      {
+        "category": "tech",
+        "source": "Rest of World",
+        "words": 1260,
+        "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy"
+      },
+      {
+        "category": "law",
+        "source": "The Volokh Conspiracy",
+        "words": 955,
+        "title": "N.Y. Lawyer Disciplined for \"Antisemitic and Threatening Language\" + \"Physical Aggression\" Towards \"Jewish Artists for Palestine\" Demonstrators"
+      },
+      {
+        "category": "gaming",
+        "source": "Rock Paper Shotgun",
+        "words": 916,
+        "title": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\""
+      },
+      {
+        "category": "fun",
+        "source": "The Conversation",
+        "words": 995,
+        "title": "Columbia is keeping its gates closed, raising the question of what universities owe their neighborhoods"
+      }
+    ],
+    "missedCategories": [],
+    "attempts": {
+      "tech": {
+        "candidates": 110,
+        "attempts": 2,
+        "failures": 0,
+        "outOfRange": 1
+      },
+      "law": {
+        "candidates": 71,
+        "attempts": 6,
+        "failures": 0,
+        "outOfRange": 5
+      },
+      "gaming": {
+        "candidates": 241,
+        "attempts": 2,
+        "failures": 0,
+        "outOfRange": 1
+      },
+      "fun": {
+        "candidates": 136,
+        "attempts": 2,
+        "failures": 0,
+        "outOfRange": 0
+      }
+    },
+    "feeds": [
+      {
+        "name": "Ars Technica",
+        "ok": true,
+        "items": 20,
+        "error": null
+      },
+      {
+        "name": "The Verge",
+        "ok": true,
+        "items": 10,
+        "error": null
+      },
+      {
+        "name": "Wired",
+        "ok": true,
+        "items": 60,
+        "error": null
+      },
+      {
+        "name": "TechCrunch",
+        "ok": true,
+        "items": 20,
+        "error": null
+      },
+      {
+        "name": "Rest of World",
+        "ok": true,
+        "items": 12,
+        "error": null
+      },
+      {
+        "name": "Hacker News Best",
+        "ok": true,
+        "items": 30,
+        "error": null
+      },
+      {
+        "name": "SCOTUSblog",
+        "ok": true,
+        "items": 25,
+        "error": null
+      },
+      {
+        "name": "Harvard Law Review",
+        "ok": true,
+        "items": 10,
+        "error": null
+      },
+      {
+        "name": "The Volokh Conspiracy",
+        "ok": true,
+        "items": 48,
+        "error": null
+      },
+      {
+        "name": "Lawfare",
+        "ok": true,
+        "items": 1,
+        "error": null
+      },
+      {
+        "name": "PC Gamer",
+        "ok": true,
+        "items": 50,
+        "error": null
+      },
+      {
+        "name": "Polygon",
+        "ok": true,
+        "items": 10,
+        "error": null
+      },
+      {
+        "name": "Rock Paper Shotgun",
+        "ok": true,
+        "items": 100,
+        "error": null
+      },
+      {
+        "name": "Eurogamer",
+        "ok": true,
+        "items": 100,
+        "error": null
+      },
+      {
+        "name": "The New Yorker",
+        "ok": true,
+        "items": 50,
+        "error": null
+      },
+      {
+        "name": "The Conversation",
+        "ok": true,
+        "items": 50,
+        "error": null
+      },
+      {
+        "name": "JSTOR Daily",
+        "ok": true,
+        "items": 10,
+        "error": null
+      },
+      {
+        "name": "Psyche",
+        "ok": true,
+        "items": 20,
+        "error": null
+      },
+      {
+        "name": "Nautilus",
+        "ok": true,
+        "items": 10,
+        "error": null
+      }
+    ],
+    "buffer": 4,
+    "ok": true
+  }
+}
